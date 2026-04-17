@@ -19,7 +19,9 @@
       --font-body: 'Noto Sans KR', sans-serif;
       --font-mono: 'JetBrains Mono', monospace;
     }
+
     * { box-sizing: border-box; margin: 0; padding: 0; }
+
     body {
       background: var(--bg);
       color: var(--text);
@@ -28,7 +30,6 @@
       padding: 0 0 60px;
     }
 
-    /* 헤더 */
     header {
       border-bottom: 1px solid var(--border);
       padding: 20px 24px;
@@ -40,30 +41,37 @@
       background: var(--bg);
       z-index: 10;
     }
+
     .logo {
       font-family: var(--font-mono);
       font-size: 13px;
       color: var(--accent);
       letter-spacing: 2px;
     }
+
     .logo span { color: var(--text-dim); }
+
     .status-dot {
-      width: 8px; height: 8px;
+      width: 8px;
+      height: 8px;
       border-radius: 50%;
       background: var(--success);
       display: inline-block;
       margin-right: 8px;
       animation: pulse 2s infinite;
     }
+
     @keyframes pulse {
       0%,100% { opacity: 1; }
-      50%      { opacity: 0.3; }
+      50% { opacity: 0.3; }
     }
 
-    /* 메인 레이아웃 */
-    .container { max-width: 860px; margin: 0 auto; padding: 32px 24px; }
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 32px 24px;
+    }
 
-    /* 최신 리포트 카드 */
     .latest-card {
       background: var(--surface);
       border: 1px solid var(--border);
@@ -73,6 +81,7 @@
       position: relative;
       overflow: hidden;
     }
+
     .latest-card::before {
       content: '';
       position: absolute;
@@ -80,6 +89,7 @@
       height: 2px;
       background: linear-gradient(90deg, var(--accent), var(--accent2));
     }
+
     .card-meta {
       display: flex;
       align-items: center;
@@ -87,6 +97,7 @@
       margin-bottom: 20px;
       flex-wrap: wrap;
     }
+
     .badge {
       font-family: var(--font-mono);
       font-size: 11px;
@@ -94,20 +105,24 @@
       border-radius: 4px;
       letter-spacing: 1px;
     }
-    .badge-date  { background: #1e2328; color: var(--accent); }
+
+    .badge-date { background: #1e2328; color: var(--accent); }
     .badge-session { background: #1a2030; color: var(--accent2); }
+
     .severity-bar {
       display: flex;
       align-items: center;
       gap: 12px;
       margin-bottom: 20px;
     }
+
     .severity-label {
       font-family: var(--font-mono);
       font-size: 11px;
       color: var(--text-dim);
       width: 80px;
     }
+
     .bar-wrap {
       flex: 1;
       height: 6px;
@@ -115,11 +130,13 @@
       border-radius: 3px;
       overflow: hidden;
     }
+
     .bar-fill {
       height: 100%;
       border-radius: 3px;
       transition: width 0.8s ease;
     }
+
     .severity-val {
       font-family: var(--font-mono);
       font-size: 13px;
@@ -127,6 +144,7 @@
       width: 40px;
       text-align: right;
     }
+
     .regime-tag {
       display: inline-block;
       padding: 6px 14px;
@@ -135,6 +153,7 @@
       font-weight: 500;
       margin-bottom: 20px;
     }
+
     .full-report {
       font-size: 14px;
       line-height: 1.8;
@@ -142,14 +161,18 @@
       white-space: pre-wrap;
       word-break: break-word;
     }
-    .full-report b { color: var(--accent); font-weight: 600; }
 
-    /* 뉴스 링크 */
+    .full-report b {
+      color: var(--accent);
+      font-weight: 600;
+    }
+
     .news-section {
       margin-top: 24px;
       padding-top: 20px;
       border-top: 1px solid var(--border);
     }
+
     .news-title {
       font-family: var(--font-mono);
       font-size: 11px;
@@ -157,6 +180,7 @@
       letter-spacing: 2px;
       margin-bottom: 12px;
     }
+
     .news-section a {
       display: block;
       color: var(--accent2);
@@ -166,9 +190,11 @@
       border-bottom: 1px solid var(--border);
       transition: color 0.2s;
     }
-    .news-section a:hover { color: var(--accent); }
 
-    /* 히스토리 */
+    .news-section a:hover {
+      color: var(--accent);
+    }
+
     .section-title {
       font-family: var(--font-mono);
       font-size: 11px;
@@ -176,7 +202,13 @@
       letter-spacing: 2px;
       margin-bottom: 16px;
     }
-    .history-list { display: flex; flex-direction: column; gap: 8px; }
+
+    .history-list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
     .history-item {
       background: var(--surface);
       border: 1px solid var(--border);
@@ -188,20 +220,49 @@
       align-items: center;
       gap: 16px;
     }
-    .history-item:hover  { border-color: var(--accent); background: #15181e; }
-    .history-item.active { border-color: var(--accent); }
+
+    .history-item:hover {
+      border-color: var(--accent);
+      background: #15181e;
+    }
+
+    .history-item.active {
+      border-color: var(--accent);
+    }
+
     .h-date {
       font-family: var(--font-mono);
       font-size: 12px;
       color: var(--accent);
       min-width: 90px;
     }
-    .h-session { font-size: 11px; color: var(--text-dim); min-width: 40px; }
-    .h-severity { font-family: var(--font-mono); font-size: 12px; min-width: 50px; }
-    .h-regime { font-size: 12px; color: var(--text-dim); flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-    .h-arrow { color: var(--text-dim); font-size: 12px; }
 
-    /* 상세 패널 */
+    .h-session {
+      font-size: 11px;
+      color: var(--text-dim);
+      min-width: 40px;
+    }
+
+    .h-severity {
+      font-family: var(--font-mono);
+      font-size: 12px;
+      min-width: 50px;
+    }
+
+    .h-regime {
+      font-size: 12px;
+      color: var(--text-dim);
+      flex: 1;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .h-arrow {
+      color: var(--text-dim);
+      font-size: 12px;
+    }
+
     .detail-panel {
       background: var(--surface);
       border: 1px solid var(--accent);
@@ -211,10 +272,15 @@
       margin-bottom: 16px;
       display: none;
     }
-    .detail-panel.open { display: block; }
-    .detail-panel .full-report { font-size: 13px; }
 
-    /* 로딩 */
+    .detail-panel.open {
+      display: block;
+    }
+
+    .detail-panel .full-report {
+      font-size: 13px;
+    }
+
     .loading {
       text-align: center;
       padding: 60px;
@@ -222,6 +288,7 @@
       color: var(--text-dim);
       font-size: 13px;
     }
+
     .loading::after {
       content: '';
       display: inline-block;
@@ -234,11 +301,19 @@
       margin-left: 10px;
       vertical-align: middle;
     }
-    @keyframes spin { to { transform: rotate(360deg); } }
 
-    .error { text-align: center; padding: 40px; color: var(--danger); font-family: var(--font-mono); font-size: 13px; }
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
 
-    /* 반응형 */
+    .error {
+      text-align: center;
+      padding: 40px;
+      color: var(--danger);
+      font-family: var(--font-mono);
+      font-size: 13px;
+    }
+
     @media (max-width: 600px) {
       .history-item { flex-wrap: wrap; }
       .h-regime { display: none; }
@@ -262,10 +337,6 @@
 </div>
 
 <script>
-  const BIN_ID     = "69cde53936566621a86fc279";
-  const MASTER_KEY = "$2a$10$jcmkgZGtfelLc6vkV7LIi.2Nkb4ajPFwEHs6hK6Wcq0zkoRBfxsVm"; // ← JSONBin X-Access-Key (읽기전용) 입력
-
-  // 심각도에 따른 색상
   function severityColor(s) {
     const v = parseFloat(s);
     if (v >= 8) return "#e85c4b";
@@ -274,33 +345,33 @@
     return "#4be87a";
   }
 
-  // 레짐 태그 색상
   function regimeStyle(regime) {
     const r = (regime || "").toLowerCase();
-    if (r.includes("crisis") || r.includes("위기"))
+    if (r.includes("crisis") || r.includes("위기")) {
       return "background:#2a1515; color:#e85c4b; border:1px solid #e85c4b33";
-    if (r.includes("risk-off") || r.includes("불안정"))
+    }
+    if (r.includes("risk-off") || r.includes("불안정")) {
       return "background:#2a1f10; color:#e8a84b; border:1px solid #e8a84b33";
-    if (r.includes("transition") || r.includes("전환"))
+    }
+    if (r.includes("transition") || r.includes("전환")) {
       return "background:#1a1a2a; color:#9b8ee8; border:1px solid #9b8ee833";
+    }
     return "background:#102a15; color:#4be87a; border:1px solid #4be87a33";
   }
 
-  // HTML 파싱 (b 태그 허용)
   function parseHtml(text) {
     return (text || "").replace(/\n/g, "<br>");
   }
 
-  // 날짜 포맷
   function fmtDate(d) {
     if (!d) return "";
     return d.replace(/(\d{4})-(\d{2})-(\d{2})/, "$1.$2.$3");
   }
 
-  // 리포트 카드 렌더링
-  function renderLatest(r) {
+  function renderLatest(r, meta) {
     const sColor = severityColor(r.severity);
-    const pct    = Math.min(parseFloat(r.severity) * 10, 100);
+    const pct = Math.min(parseFloat(r.severity || 0) * 10, 100);
+
     return `
       <div class="latest-card">
         <div class="card-meta">
@@ -309,7 +380,11 @@
           <span style="font-family:var(--font-mono);font-size:11px;color:var(--text-dim)">
             ${r.savedAt ? "저장: " + r.savedAt : ""}
           </span>
+          <span style="font-family:var(--font-mono);font-size:11px;color:var(--text-dim)">
+            ${meta?.updatedAt ? "파일갱신: " + meta.updatedAt : ""}
+          </span>
         </div>
+
         <div class="severity-bar">
           <span class="severity-label">SEVERITY</span>
           <div class="bar-wrap">
@@ -317,8 +392,10 @@
           </div>
           <span class="severity-val" style="color:${sColor}">${r.severity}/10</span>
         </div>
+
         <div class="regime-tag" style="${regimeStyle(r.regime)}">${r.regime || "레짐 분석 중"}</div>
         <div class="full-report">${parseHtml(r.full)}</div>
+
         ${r.news ? `
         <div class="news-section">
           <div class="news-title">📡 포착된 주요 기미</div>
@@ -327,28 +404,35 @@
       </div>`;
   }
 
-  // 히스토리 아이템
   function renderHistory(reports) {
     if (reports.length <= 1) return "";
+
     const items = reports.slice(1).map((r, i) => `
-      <div class="history-item" onclick="toggleDetail(${i+1})" id="h-${i+1}">
+      <div class="history-item" onclick="toggleDetail(${i + 1})" id="h-${i + 1}">
         <span class="h-date">${fmtDate(r.date)}</span>
         <span class="h-session">${r.session || ""}</span>
         <span class="h-severity" style="color:${severityColor(r.severity)}">${r.severity}/10</span>
         <span class="h-regime">${r.regime || ""}</span>
         <span class="h-arrow">›</span>
       </div>
-      <div class="detail-panel" id="dp-${i+1}">
+
+      <div class="detail-panel" id="dp-${i + 1}">
         <div class="severity-bar" style="margin-bottom:16px">
           <span class="severity-label">SEVERITY</span>
           <div class="bar-wrap">
-            <div class="bar-fill" style="width:${Math.min(parseFloat(r.severity)*10,100)}%;background:${severityColor(r.severity)}"></div>
+            <div class="bar-fill" style="width:${Math.min(parseFloat(r.severity || 0) * 10, 100)}%;background:${severityColor(r.severity)}"></div>
           </div>
           <span class="severity-val" style="color:${severityColor(r.severity)}">${r.severity}/10</span>
         </div>
+
         <div class="regime-tag" style="${regimeStyle(r.regime)}">${r.regime || ""}</div>
         <div class="full-report">${parseHtml(r.full)}</div>
-        ${r.news ? `<div class="news-section"><div class="news-title">📡 포착된 주요 기미</div>${r.news}</div>` : ""}
+
+        ${r.news ? `
+        <div class="news-section">
+          <div class="news-title">📡 포착된 주요 기미</div>
+          ${r.news}
+        </div>` : ""}
       </div>
     `).join("");
 
@@ -359,11 +443,12 @@
 
   function toggleDetail(idx) {
     const panel = document.getElementById(`dp-${idx}`);
-    const item  = document.getElementById(`h-${idx}`);
+    const item = document.getElementById(`h-${idx}`);
     const isOpen = panel.classList.contains("open");
-    // 전체 닫기
+
     document.querySelectorAll(".detail-panel").forEach(p => p.classList.remove("open"));
     document.querySelectorAll(".history-item").forEach(i => i.classList.remove("active"));
+
     if (!isOpen) {
       panel.classList.add("open");
       item.classList.add("active");
@@ -371,15 +456,16 @@
     }
   }
 
-  // 메인 로드
   async function loadReports() {
     const app = document.getElementById("app");
+
     try {
-      const res  = await fetch(`https://api.jsonbin.io/v3/b/${BIN_ID}/latest`, {
-        headers: MASTER_KEY ? { "X-Access-Key": MASTER_KEY } : {}
-      });
+      const res = await fetch("./data.json?v=" + Date.now(), { cache: "no-store" });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+
       const data = await res.json();
-      const reports = (data.record && data.record.reports) || [];
+      const reports = Array.isArray(data.reports) ? data.reports : [];
+      const meta = data.meta || {};
 
       if (reports.length === 0) {
         app.innerHTML = `<div class="error">아직 리포트가 없습니다.<br>Apps Script를 실행하면 데이터가 쌓입니다.</div>`;
@@ -387,20 +473,21 @@
       }
 
       app.innerHTML =
-        renderLatest(reports[0]) +
+        renderLatest(reports[0], meta) +
         renderHistory(reports);
 
     } catch (e) {
-      app.innerHTML = `<div class="error">데이터 로드 실패<br>${e.message}</div>`;
+      app.innerHTML = `<div class="error">data.json 로드 실패<br>${e.message}</div>`;
     }
   }
 
-  // URL 파라미터로 특정 날짜 자동 하이라이트 (텔레그램 링크 클릭 시)
   function highlightFromUrl() {
     const params = new URLSearchParams(window.location.search);
-    const dateParam = params.get("date"); // 예: 20260402
+    const dateParam = params.get("date");
     if (!dateParam) return;
+
     const formatted = dateParam.replace(/(\d{4})(\d{2})(\d{2})/, "$1-$2-$3");
+
     setTimeout(() => {
       const items = document.querySelectorAll(".h-date");
       items.forEach((el, i) => {
@@ -413,5 +500,6 @@
 
   loadReports().then(highlightFromUrl);
 </script>
+
 </body>
 </html>
