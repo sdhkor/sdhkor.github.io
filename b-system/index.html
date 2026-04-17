@@ -376,7 +376,7 @@
     const app = document.getElementById("app");
     try {
       const res  = await fetch(`https://api.jsonbin.io/v3/b/${BIN_ID}/latest`, {
-        headers: MASTER_KEY ? { "X-Master-Key": MASTER_KEY } : {}
+        headers: MASTER_KEY ? { "X-Access-Key": MASTER_KEY } : {}
       });
       const data = await res.json();
       const reports = (data.record && data.record.reports) || [];
