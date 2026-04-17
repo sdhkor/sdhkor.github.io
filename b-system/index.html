@@ -14,6 +14,9 @@
       --accent2:   #4b9ee8;
       --danger:    #e85c4b;
       --success:   #4be87a;
+      --info:      #68a8ff;
+      --purple:    #9b8ee8;
+      --insight:   #f0c96b;
       --text:      #c9d1d9;
       --text-dim:  #6e7681;
       --font-body: 'Noto Sans KR', sans-serif;
@@ -156,15 +159,58 @@
 
     .full-report {
       font-size: 14px;
-      line-height: 1.8;
+      line-height: 1.9;
       color: var(--text);
-      white-space: pre-wrap;
+      white-space: normal;
       word-break: break-word;
     }
 
     .full-report b {
       color: var(--accent);
       font-weight: 600;
+    }
+
+    .report-line {
+      margin: 10px 0;
+    }
+
+    .report-point {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border-left: 4px solid transparent;
+      background: #0f1317;
+      margin: 12px 0;
+    }
+
+    .point-severity {
+      border-left-color: var(--danger);
+      background: rgba(232, 92, 75, 0.08);
+      color: #ffd5cf;
+    }
+
+    .point-flow {
+      border-left-color: var(--info);
+      background: rgba(104, 168, 255, 0.08);
+      color: #d7e7ff;
+    }
+
+    .point-strategy {
+      border-left-color: var(--success);
+      background: rgba(75, 232, 122, 0.08);
+      color: #d8ffe6;
+    }
+
+    .point-insight {
+      border-left-color: var(--insight);
+      background: rgba(240, 201, 107, 0.10);
+      color: #fff1c7;
+    }
+
+    .point-severity b,
+    .point-flow b,
+    .point-strategy b,
+    .point-insight b {
+      font-weight: 700;
     }
 
     .news-section {
@@ -359,8 +405,27 @@
     return "background:#102a15; color:#4be87a; border:1px solid #4be87a33";
   }
 
-  function parseHtml(text) {
-    return (text || "").replace(/\n/g, "<br>");
+  function parseReport(text) {
+    const lines = (text || "").split("\n").filter(line => line.trim() !== "");
+
+    return lines.map(line => {
+      const trimmed = line.trim();
+
+      if (trimmed.startsWith("1. 🔴") || trimmed.startsWith("🔴")) {
+        return `<div class="report-point point-severity">${trimmed}</div>`;
+      }
+      if (trimmed.startsWith("2. 🌐") || trimmed.startsWith("🌐")) {
+        return `<div class="report-point point-flow">${trimmed}</div>`;
+      }
+      if (trimmed.startsWith("3. 🛡️") || trimmed.startsWith("🛡️")) {
+        return `<div class="report-point point-strategy">${trimmed}</div>`;
+      }
+      if (trimmed.startsWith("4. 👁️") || trimmed.startsWith("👁️")) {
+        return `<div class="report-point point-insight">${trimmed}</div>`;
+      }
+
+      return `<div class="report-line">${trimmed}</div>`;
+    }).join("");
   }
 
   function fmtDate(d) {
@@ -394,7 +459,7 @@
         </div>
 
         <div class="regime-tag" style="${regimeStyle(r.regime)}">${r.regime || "레짐 분석 중"}</div>
-        <div class="full-report">${parseHtml(r.full)}</div>
+        <div class="full-report">${parseReport(r.full)}</div>
 
         ${r.news ? `
         <div class="news-section">
@@ -426,7 +491,7 @@
         </div>
 
         <div class="regime-tag" style="${regimeStyle(r.regime)}">${r.regime || ""}</div>
-        <div class="full-report">${parseHtml(r.full)}</div>
+        <div class="full-report">${parseReport(r.full)}</div>
 
         ${r.news ? `
         <div class="news-section">
