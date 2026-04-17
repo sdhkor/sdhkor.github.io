@@ -1,8 +1,28 @@
 {
-  "reports": [],
+  "reports": [
+    {
+      "date": "2026-04-17",
+      "session": "🌙 PM",
+      "severity": "7.5",
+      "regime": "TRANSITION (Severity 4~5)",
+      "categories": [
+        "미국 금리 인하 지연",
+        "중동 지정학적 리스크 고조",
+        "중국 부동산 시장 불안",
+        "한국 수출입 동향",
+        "기준금리 전망",
+        "원달러 환율",
+        "외국인 수급",
+        "국내 증시"
+      ],
+      "full": "1. 🔴 심각도: 7.5/10 점수\n\n근거:\n미국 금리 인하 지연 및 연준 수장 교체 난항 우려는 글로벌 금융 시장의 불확실성을 증폭시키고 있습니다. 이는 기준금리 전망에도 영향을 미쳐 도이체는 연준의 올해 금리 동결 가능성을 제기하며 기존 9월 인하 전망을 수정했습니다. 이러한 글로벌 금리 불확실성은 원/달러 환율 상승(장 초반 1,480원 안팎)으로 이어지고 있으며, 이는 국내 증시에 상방 압력으로 작용할 수 있는 외국인 수급에 부담을 줄 수 있습니다.\n\n한편, 중동 지정학적 리스크 고조는 에너지 수급 불안을 야기하며 남동발전의 비상대응반 확대 개편으로 이어졌습니다. 이는 에너지 가격 변동성을 키우고 전반적인 물가 상승 압력으로 작용할 수 있습니다.\n\n중국 부동산 시장 불안은 글로벌 경제 성장 둔화 우려를 심화시키며, 이는 한국의 수출입 동향에도 간접적인 영향을 미칠 수 있습니다. 다만, 현재 한국은 반도체 호황에 힘입어 3월 수출 861억 달러를 기록하며 사상 첫 800억 달러 시대를 열었고, 코스피는 최고치에 근접하며 회복세를 보이고 있습니다.\n\n종합적으로, 글로벌 금리 및 지정학적 리스크는 심각한 수준이며, 이는 국내 증시의 상승 모멘텀을 제약하고 환율 변동성을 높이는 요인으로 작용합니다. 한국 경제는 반도체 수출 호황이라는 긍정적인 요인에도 불구하고 글로벌 불확실성에 노출되어 있어 주의가 필요합니다.\n\n2. 🌐 레짐 유형: TRANSITION (Severity 4~5)\n\n근거:\n현재 시장은 명확한 RISK-ON 또는 RISK-OFF 국면으로 보기 어렵습니다. 미국 금리 인하 지연과 중동 리스크는 불확실성을 높이며 RISK-OFF 성향을 강화하지만, 한국의 반도체 수출 호황과 코스피의 최고치 근접은 RISK-ON 요인으로 작용합니다. 즉, 글로벌 경제의 방향 전환 과정에서 상반된 신호들이 혼재하며 불확실성이 증가하는 TRANSITION 국면으로 판단됩니다.\n\n3. 🛡️ 전략 지침: Defense(방어)\n\n핵심 요약:\n글로벌 금리 인하 지연, 중동 지정학적 리스크, 중국 부동산 시장 불안 등 불확실성이 높은 상황이므로, 공격적인 투자보다는 방어적인 스탠스를 유지하는 것이 중요합니다. 변동성 확대에 대비하여 현금 비중을 늘리거나, 경기 방어주 및 가치주 중심으로 포트폴리오를 재조정하는 것을 고려해야 합니다.\n\n4. 👁️ 오늘의 통찰:\n\n포착된 기미 2~3개:\n- 미국 연준의 금리 인하 시점 불확실성 심화: 이는 향후 글로벌 유동성 및 투자 심리에 지속적인 영향을 미칠 것입니다.\n- 중동 지정학적 리스크의 에너지 가격 파급 효과: 에너지 가격 상승은 인플레이션 압력을 가중시키고 소비 심리를 위축시킬 수 있습니다.\n- 한국 증시의 신고가 앞둔 외국인 수급의 중요성 증대: 외국인 투자자들의 움직임이 단기적인 증시 방향을 결정하는 핵심 변수가 될 것입니다.\n\n단기 시나리오:\n- 시나리오 1 (불확실성 지속): 미국 금리 인하 지연 및 중동 리스크가 지속되면서 원/달러 환율은 1,480원 이상으로 추가 상승할 가능성이 있습니다. 코스피는 외국인 수급에 따라 등락을 반복하며 신고가 돌파에 어려움을 겪을 수 있습니다.\n- 시나리오 2 (긍정적 전환): 예상보다 빠른 반도체 업황 개선 또는 지정학적 리스크 완화 신호가 나타날 경우, 외국인 자금이 유입되면서 코스피는 신고가를 돌파하고 상승세를 이어갈 수 있습니다. 하지만 이 시나리오는 현재로서는 가능성이 낮아 보입니다.",
+      "news": "🔗 <a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT2duajlLX2JhQWwyd2t3eTdobTU4NGt2Y2hGS2lCdURMbDRwNzNNeHAzM0d6QlJOVWRKTFhKbjA4UXBGNVJRZWNZTjZwa3c4ZHF1WExSeVV2VWduTWRXdXJqaDRpOGFEbEd0MlBiSTZsV0NlM0w5VnF4dzQxVXJNMFliZlR6TFhy?oc=5\">美 연준 수장 교체 난항 속 권한 충돌 우려 커져</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9pZFRtX09aT09DUDJjdG4tZEtJUmtOb2tSVEhXZXlwNmk4eVdodHpVX3Bhd0ZmcXdIUjZWMkxxbmZVdEJWTDBWUmVVdzgxWnp5Q3dUdkJuWHBCSXVBZWIxLXB2emhfZUpiMnM0?oc=5\">남동발전, 중동 리스크 대응 &#39;에너지수급 비상대응반&#39; 확대 개편</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE15YlN3TzBZZm41ODhWY2xrNXpFX3FjN3ZzeUg2ZU02ZnRzU29ocWZZYmZ6UVZTSGpFSDlsTlFTemp4eTlzVG9oY2FGXzM?oc=5\">2026 글로벌 부동산 트렌드와 한국의 대응은?</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQbFZsMzN4NVl4bzRGM00xdmVzamppZHFLNldydkVQa2x6MFQ5TURzbXlJWF9taEFLblJuZE1DSWVsQ2xPb2xza1hvWlhHSFdFT25oQzBMRC1mbUFya2xYU3VVWmQxa0NVT1VKMTNsSE9leWJpSTFHNjZoQ1U4QjlXRHMxTjNQdmRQaE55Vw?oc=5\">반도체 호황에 3월 수출 861억달러…사상 첫 800억달러 시대</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9uV1FMazdvbVhXcEFCZWhXWE83Q0FyUC1OZ3lCU2pjb2NYWkhlVFJObG5ZUG9oeWJ1MS1LYUM2aGxFR0stWl9NUEtSYlZyUVpyUU9jdXNEZmhhTkpoV1lEVjViaVpJaFZEdUZIUlUzMTlWUQ?oc=5\">도이체 &quot;연준, 올해 금리 동결 전망…9월 인하에서 수정&quot;</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5xY3k0S2FpWDFBNjlEeEhneG1raFp5d09vZWFjMnNFLWZwSWVSY0x5ZVJlYXY2bkRUTFBiX3Uzb2djRTE5SzdfY1o2ZkdmdEZjMk5WV25KTUxuRVA2M1k3NGtMbi1iU1lRbGN5NWYyYnhzZFU?oc=5\">원/달러 환율 이틀째 상승…장 초반 1,480원 안팎</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jbloxdVRwNFNnTWpLOHJoMDNZT0V4S3lwWlhyZmI3eU5PdnpwTGE1eXFfdDBBREhIcHFpbENvRmRhOWxWMTZUam9iUVprX0ZtWGVpamFWR1RhOGs3N3c?oc=5\">&quot;코스피, 신고가 1% 앞두고 상방압력 지속…외국인 수급이 핵심&quot;</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YNV85blc0SVluVXlObWVybEpZWVcwNW9wNFRzYnBWZ0p5NmcwdnRvaWxxVlp3aGVXcFBURjZrWEVPdkdtRXRza1NGRnIzTzg?oc=5\">[어제장 오늘장] 종전 시계에 국내증시 회복 속도↑…코스피 최고치 근접</a>\n\n",
+      "savedAt": "2026-04-17 15:04"
+    }
+  ],
   "meta": {
-    "updatedAt": "",
-    "source": "bootstrap",
+    "updatedAt": "2026-04-17 15:04:17",
+    "source": "Apps Script",
     "version": 1
   }
 }
