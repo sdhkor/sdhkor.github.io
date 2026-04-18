@@ -1,6 +1,25 @@
 {
   "reports": [
     {
+      "date": "2026-04-19",
+      "session": "🌅 AM",
+      "severity": "6.2",
+      "regime": "불안정한 균형 상태를 나타냅니다.",
+      "categories": [
+        "트럼프 관세 확대",
+        "AI 반도체 투자",
+        "미중 기술 패권 경쟁",
+        "글로벌 인플레이션 재점화",
+        "기준금리 전망",
+        "원달러 환율",
+        "외국인 수급",
+        "국내 증시"
+      ],
+      "full": "1. 🔴 <b>심각도(Severity)</b>: 6.2/10\n\n근거: 글로벌적으로는 트럼프 관세 확대 가능성, 미중 기술 패권 경쟁 심화, 글로벌 인플레이션 재점화 우려(금리 인하 지연 시사) 등 구조적이고 장기적인 리스크 요인들이 상존하며 불확실성을 높이고 있습니다. 특히 원달러 환율이 중동 상황 주시 속 1,508.0원까지 상승한 것은 국내 경제에 상당한 부담으로 작용하며 심각도를 높이는 핵심 요인입니다. 반면, TSMC 실적 발표로 인한 AI 반도체 시장의 긍정적 전망과 국내 증시의 중동 리스크 완화 인식(호르무즈 개방 기대, SK하이닉스 실적 기대) 및 견조한 상승세는 심각도를 일부 완화하는 요인으로 작용하고 있습니다. 그러나 환율 상승과 잠재적 무역 리스크는 시장의 낙관론을 언제든 흔들 수 있는 불안정한 균형 상태를 나타냅니다.\n\n2. 🌐 <b>레짐 유형(Flow)</b>: RISK-OFF\n\n근거: 원달러 환율이 1,500원대를 돌파하며 상승하고, 트럼프 관세 확대와 미중 기술 패권 경쟁 등 구조적인 글로벌 리스크가 지속적으로 언급되는 상황은 안전자산 선호 심리를 자극하고 방어적인 태도를 요구합니다. 비록 국내 증시가 AI 반도체 강세와 중동 리스크 완화 기대감으로 견조한 상승세를 보이고 있지만, 이는 특정 섹터의 강세와 단기적인 리스크 완화 인식에 기반한 것으로, 전반적인 거시경제 환경은 여전히 높은 불확실성과 잠재적 위험을 내포하고 있습니다. 환율 상승은 자본 유출 압력과 수입 물가 상승을 야기하여 국내 경제에 부담을 주며, 이는 전반적인 시장의 방어 모드를 강화하는 핵심 신호입니다.\n\n3. 🛡️ <b>전략 지침</b>: Defense(방어)\n\n핵심 요약: 환율 변동성 확대와 글로벌 무역 리스크에 대비하여 방어적인 포트폴리오를 유지하고, 유동성 확보에 주력해야 합니다. AI 반도체 등 특정 성장 섹터에 대한 선별적인 Exposure는 가능하나, 전반적인 시장의 변동성 확대에 대한 경계심을 늦추지 않아야 합니다.\n\n4. 👁️ <b>오늘의 통찰</b>:\n\n   <b>포착된 기미 1: '환율'과 '증시'의 괴리</b>\n       <b>기미:</b> 원달러 환율이 중동 리스크 주시 속 1,508.0원까지 상승하며 불안정한 모습을 보이지만, 국내 증시는 중동 리스크에서 벗어나 견조한 상승세를 보이며 '칠천피'를 향하고 있습니다. 이는 시장이 특정 긍정적 요인(AI 반도체, SK하이닉스 실적 기대, 호르무즈 개방 기대)에 집중하며 환율 상승이라는 거시적 위험을 일시적으로 간과하거나 희석시키고 있음을 시사합니다.\n       <b>단기 시나리오:</b> 단기적으로는 AI 반도체 섹터의 강세와 외국인 수급 유입에 힘입어 국내 증시의 상승세가 이어질 수 있습니다. 그러나 환율 상승이 지속되거나 중동 리스크가 재부각될 경우, 증시의 상승 동력이 약화되고 급격한 조정이 발생할 수 있습니다.\n\n   <b>포착된 기미 2: 'AI 반도체'의 강력한 방어막이자 성장 동력</b>\n       <b>기미:</b> TSMC의 실적 발표가 'AI 버블' 우려를 잠재우고 반도체 시장 전반에 '청신호'를 켰으며, SK하이닉스 실적에 대한 기대감이 외국인 수급을 이끌고 있습니다. 이는 AI 반도체 섹터가 글로벌 및 국내 증시의 주요 성장 동력일 뿐만 아니라, 거시적 불확실성 속에서도 시장을 지탱하는 강력한 방어막 역할을 하고 있음을 보여줍니다.\n       <b>단기 시나리오:</b> AI 반도체 관련 기업들은 단기적으로 시장의 주요 투자처로 부각되며 견조한 상승세를 유지할 가능성이 높습니다. 그러나 AI 버블에 대한 근본적인 우려가 완전히 해소된 것은 아니므로, 관련 기업들의 실적 발표나 시장 전망 변화에 따라 변동성이 확대될 수 있습니다.\n\n   <b>포착된 기미 3: '트럼프 2기'와 '글로벌 인플레이션'의 잠재적 위협</b>\n       <b>기미:</b> 한국해양진흥공사가 '트럼프 2기·중국 리스크' 대응을 모색하고 있으며, 금값의 '반등열차'가 금리 인하 시점을 기다리고 있다는 점은 글로벌 인플레이션 재점화 및 고금리 장기화 가능성이 여전히 시장의 잠재적 위협으로 작용하고 있음을 나타냅니다.\n       <b>단기 시나리오:</b> 트럼프 당선 가능성이 높아지거나 글로벌 인플레이션 지표가 예상치를 상회할 경우, 시장의 불확실성이 급증하고 투자 심리가 위축될 수 있습니다. 이는 특히 수출 의존도가 높은 국내 기업들과 금리 인하를 기대하는 자산 시장에 부정적인 영향을 미칠 것입니다.",
+      "news": "🔗 <a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFAyVU5Td3lZeW9LNnBrRHZVbUU3NGNPS3VvWk96MjV4T1NxVElvb2hsbnk4ZEZjcHdyYWtEZ0pKV0dndWM5LWRFZUV3SHBHMjNUY2R5RWd5R1YxQnNUVUYwdTBrU1E4eGwxeG1V0gFvQVVfeXFMTXVsZmE4NkhxSjg4cjlLUm44YTJueU9URjdhM1pIYXFuTFRDSXB2SVF6YjV0LW15aDFycUt5Y1ZxVzJYUm93UGRucHdGYm1kNWxkUllKMmlxek1veHAyUk5NWktfcFVYQkk2MmFtU1ZN?oc=5\">한국해양진흥공사, 국적선사 CEO 콘퍼런스 개최…‘트럼프 2기·중국 리스크’ 대응 모색</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1WUlpwRFdzalRjUlVVblNlZnlQYm1kV08zUU52aWNYMmpKa2swNGxmUm1LRVdOMmxmOWdsSzh0NkZraEpLMDlMNmdwNU03LWxiMTMtUm9rQkM0bG4yR25GMzVIaHNQcWRwSGZRREVFMC1DbDA?oc=5\">TSMC 실적 발표가 &#39;AI 버블&#39; 우려 잠재워, 반도체 시장 전반에 &#39;청신호&#39; 평가</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1keXg3MGU0WWZVazdqZlUwWlJiY2NXRVROaXctVEpxUVZOOUxWdDU4cGZlbGd4V0FTb2FHc3ltQjFzMHVPaFpvbDdXdkVxUVBO?oc=5\">[거시적 관점] 단일화된 &#39;메이드 인 차이나&#39;는 없다</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0pLQVhxNWlIWEFTMWNwb0dZYk4xVC1wNEg5TUwxcE03TUhjVjEwTW1Ka0V2ZVNndWV4SVdESXVYWXcwTUUtLUZ4WmJjMndUbFo3S0VEOElfem1icmQzeW5oajVjaFFsWndKd1R1aEJYdk8xcFZXbFF1YUlLa1NJc2RHV1pnb295ZG5fd3RoNUN0S3pEeHFpRVptanVEdWJ4a1NLNzhHX2w?oc=5\">이상적인 카지노 탄소 중립을 통한 요약: 원리, 방법 및 기술</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RWXB1YlloazRSNEU5bXhoMXBUMVlVa3hxSjF4dGJjT0MyY2F6T2FMODhwZUE3SE96OGZzLWdKMzNHNHM3N2pwM1R1NTlzbEtNS05la1Jia3Nxa0NhNkdV?oc=5\">&#39;반등열차&#39; 아직 못 탄 금값…전쟁 후 금리 인하 시점 &#39;상승 기대&#39;</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQOFNnM1Y1aTdJZ3dGaGhVNTl5cDRtdGFXdTliaFZWV1FQXzJkNU5raExRNWFZRlk3QmNqQWg5ZUJsS25vbzlPaG51aUY1YnJ1anExTjNRZ1MtM2x5ZWx4Q1BzOURCemlLZU5XZDhibWMxQlNNTXJLV2trMHQ4RXc5Y3pQTldwVzduQUNqQw?oc=5\">환율, 중동 상황 주시 속 1.7원 오른 1,508.0원</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3MU5QRXc1NkVwdXBTMW9id1FKejBCc3NxN2pISWVoUnFjNHFFcGxOOXBITEJNdk5NNWQxWWJkS0tYaHdQcU5hLXgwX3Jra3ltTzJ3ZURaLUwxUDlnZnBMTTBIamU?oc=5\">다시 &#39;칠천피&#39; 향하는 코스피…호르무즈 개방·SK하이닉스 실적 &#39;기대&#39;</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBIeENNaEdlamFWcGJIdTREYXBMeGZVVnRNRW1FV0tndUYxcWNOVHRPZmRid3l5R1RRaW0zTTN0bGtySGo1Qzl4b2EwX0JtU0RnNkFUeEpBUnFDWFR5c1Zna1dLZ20zQ0xVeXZtVWZiNjJsRE9D0gF0QVVfeXFMUEh4Q01oR2VqYVZwYkh1NERhcEx4ZlVWdE1FbUVXS2d1RjFxY05UdE9mZGJ3eXlHVFFpbTNNM3Rsa3JIajVDOXhvYTBfQm1TRGc2QVR4SkFScUNYVHlzVmdrV0tnbTNDTFV5dm1VZmI2MmxET0M?oc=5\">[증시 동향] 중동 리스크 벗어나 견조한 상승···증시 대기·주변자금 635조</a>\n\n",
+      "savedAt": "2026-04-19 07:37"
+    },
+    {
       "date": "2026-04-18",
       "session": "🌅 AM",
       "severity": "8.2",
@@ -40,7 +59,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-04-18 07:37:22",
+    "updatedAt": "2026-04-19 07:37:15",
     "source": "Apps Script",
     "version": 1
   }
