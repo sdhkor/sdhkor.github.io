@@ -1,6 +1,25 @@
 {
   "reports": [
     {
+      "date": "2026-04-21",
+      "session": "🌅 AM",
+      "severity": "7.5",
+      "regime": "EVENT-SHOCK",
+      "categories": [
+        "Trump 2기 관세 충격",
+        "글로벌 인플레이션 재점화",
+        "미중 반도체 규제 강화",
+        "AI 기술 규제 강화",
+        "기준금리 전망",
+        "원달러 환율",
+        "외국인 수급",
+        "국내 증시"
+      ],
+      "full": "[B-System 연기적 분석]\n\n1. 🔴 <b>심각도(Severity)</b>: 7.5/10\n근거:\n글로벌: 중동발 지정학적 리스크(호르무즈 해협 대치, 중동 전쟁)가 유가 급등을 야기하며 <b>글로벌 인플레이션 재점화</b> 우려를 키우고 있다. 이는 미국 기준금리 인하 시점 지연(9월까지 인하 없을 전망)으로 이어져 <b>고금리 장기화</b> 압력을 가중시킨다. 또한, 트럼프 2기 관세 충격 가능성과 미중 반도체 규제 강화는 글로벌 무역 및 공급망 불확실성을 증폭시키는 요인이다. 이러한 복합적인 악재는 글로벌 시장의 <b>안전자산 회귀 심리</b>를 강화하고 있다.\n국내: 중동 전쟁 충격으로 <b>원/달러 환율이 장중 1,480원에 육박</b>하는 등 외환 시장 불안이 심화되고 있다. 이는 국내 기업의 수입 물가 상승 및 외국인 자금 이탈 압력으로 작용할 수 있다. 다만, 조선, 반도체, 2차전지 등 <b>수출 주도형 특정 섹터에 외국인 및 연기금의 선별적 매수세</b>가 유입되고 있어 전반적인 시장 붕괴보다는 <b>매크로 악재 속 차별화 장세</b>가 나타날 가능성이 있다. 그러나 전반적인 글로벌 리스크 증가는 국내 증시의 변동성을 크게 확대시킬 것으로 판단된다.\n\n2. 🌐 <b>레짐 유형(Flow)</b>: EVENT-SHOCK\n근거: 중동발 지정학적 리스크(호르무즈 해협 대치, 중동 전쟁)라는 <b>돌발적인 충격</b>이 유가 급등, 글로벌 인플레이션 재점화, 미국 금리인하 지연, 원/달러 환율 급등 등 <b>단기적인 시장 급변</b>을 야기하고 있다. 이는 단순한 위험 회피(RISK-OFF) 단계를 넘어선, 특정 이벤트로 인한 시장의 급격한 재평가 및 방향 전환을 의미한다.\n\n3. 🛡️ <b>전략 지침</b>: Defense(방어)\n핵심 요약: <b>방어적 포지션 강화</b> 및 <b>현금 비중 확대</b>. <b>환율 변동성 확대에 대비</b>하고, <b>수출 경쟁력 보유 섹터 내 우량 기업으로의 선별적 접근</b>을 고려한다.\n\n4. 👁️ <b>오늘의 통찰</b>:\n• <b>지정학적 리스크의 인플레이션 재점화 및 금리인하 지연 고착화</b>: 중동발 유가 충격은 단순한 일시적 현상이 아닌, 글로벌 인플레이션 압력을 재점화하고 미국 기준금리 인하 시점을 더욱 지연시키는 핵심 변수로 작용하고 있다. 이는 <b>고금리 장기화</b>와 <b>원자재 가격 변동성 확대</b>라는 새로운 레짐을 고착화시킬 기미를 보인다.\n단기 시나리오: 유가 및 원자재 가격 상승 압력 지속, 글로벌 인플레이션 장기화 우려 증폭.\n\n• <b>원화 약세 심화와 외국인 수급의 이중성</b>: 중동발 충격으로 원/달러 환율이 1,480원에 육박하며 원화 약세가 심화되고 있다. 이는 외국인 자금 이탈의 빌미가 될 수 있으나, 동시에 조선, 반도체, 2차전지 등 <b>수출 주도형 특정 섹터에는 외국인 매수세가 유입</b>되는 이중적인 흐름이 포착된다. 이는 매크로 악재 속에서도 <b>글로벌 경쟁력을 갖춘 한국 기업에 대한 선별적 투자 수요</b>가 존재함을 시사한다.\n단기 시나리오: 매크로 악화 속에서도 <b>수출 주도형 우량 기업</b>으로의 <b>선별적 자금 쏠림 현상</b> 심화.",
+      "news": "🔗 <a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1Ukg4TzdwcTNCMWktSzhfMERLeFRwcFh4MGxGNGRUMDNpOGY4V3NCcUpYSWFkWjlFdUFtYm9iZTJ0MWdGM1ZJbnhkcVJWRnZ4bERmc2ZicUZxVUFETDg1ONIBeEFVX3lxTE5GOWtQRkdxZFcxZUxkV2ZfcnUySjRmYXg3dEtzblpwLTNSX1l5Tl9UY29Ta0xuMjAyOVlJTWRqeUJSQzY4bGRFQ3FULU81V1NhQTVFRnl2WlluOGlGVlJPVjJ4YTltV3M1eXVxZ3FhOWxZSEUyWWk4SQ?oc=5\">기름값 요동쳐도 그들만 웃었다…&#39;트럼프 정보&#39; 미리 뺀 세력 있나</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE51UUhyMGxYLW9EcVo3UUVPQl8xRlRuX0dxb0NjMk0tTlY5dGJCdTRDbWVGVFBjbzNCRUVKQ0NRVHFLV1dGRXo3bV9fUUFCUmpmV2VEZnZlT1JnMUd4LUJ2RnY4d3ItVzJv?oc=5\">호르무즈 해협 대치 재점화…글로벌 시장 다시 안전자산 회귀?</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CUVZDemtwcFVEaGo0TWt5d3AzMnBKQ3N4OHZMODBjNTlsaWVTVng0bnlQYktoNWpCbmpVbFY3MzI3Y0RCWFY5RUFfaEc?oc=5\">대만 반도체 수출 통제 강화가 한국에 미칠 영향</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5zaDdhSDBDWHhhZEdxM2U1Y1VWVUxNOVhLcGw1V0VOTWxidHViMHdueGI4cDBId3Y4MWplaHFYanlqbVpWWXZfaG9LSEhPQ0h1ODEyeWVfRF9lVWtqZ3k4STJJMTA1em0zVVFkcVlB?oc=5\">원주시소공인복합지원센터, AI융합기술 선도기관 선정</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hdE9FRU1iQThIRzcwVW56WDFQZUVyREp4MS16dTM4SVFiMk5ubk1QS0l4bEJ2UVZndm1hNHU0Nms3aVh0N0JxU2RlME1pb2J2Rllnakhyek1lU3czeEJHbdIBYEFVX3lxTE5hdE9FRU1iQThIRzcwVW56WDFQZUVyREp4MS16dTM4SVFiMk5ubk1QS0l4bEJ2UVZndm1hNHU0Nms3aVh0N0JxU2RlME1pb2J2Rllnakhyek1lU3czeEJHbQ?oc=5\">중동발 유가 충격에…IB들 &quot;9월까지 美 금리인하 없어&quot;</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTJwaTRtS2JUV2VNU2lzN2REenREdTJtNVItbm1GZzhYV3hRYUJ1Y0hxTi1VSDZHN2p3RnJ2U01rUkwwUUU4eWNQZ0hWb0s0VjZ1OENQTktlNkVmY3ZCcTdnclppdDJEbXkxT3NuTXlZdVo0S21MMkpTNktEVG9uVGhLeEc3TTNVak5r?oc=5\">중동 전쟁 충격에 원/달러 환율 장중 1,480원 육박</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxObHZ6b3Bwekd6M2RybVEwb08zMkFVYmlYS3NuZnFZVjVtNXRjX0xUeE9LSVFQLWlnMEl5cG5JTEdVa1VId3hoZ1FOWXJEOXFlTVVqY0hIMU0yLVUyUlJZTng0QnVJTjlyVHhFbE82eElJbHJNa1FfalQ5VXNvczRTOVZFeThsenpVTHc?oc=5\">[수급분석] HD현대중공업, 연기금 265억 (3일)! SK하이닉스 외국인 6,899억 매수… 조선·반도체·2차전지 강세!(2026.04.20)</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aVXJpZ2E2Vjhqa2ZEVVJBellQVEloclNzZ0g4cmRfMkliOVNaLTl2R0l2RV9hamxhSlBXOWdqdEFHY2dNX3kzY2VqYWVWY0d0VFpiN2ROam81UFdWQjF5UkY5djB0ZExO?oc=5\">24시간 주식거래 밀어붙이는 거래소…시장 왜곡·부담 논란</a>\n\n",
+      "savedAt": "2026-04-21 07:37"
+    },
+    {
       "date": "2026-04-20",
       "session": "🌅 AM",
       "severity": "7.5",
@@ -78,7 +97,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-04-20 07:37:15",
+    "updatedAt": "2026-04-21 07:37:21",
     "source": "Apps Script",
     "version": 1
   }
