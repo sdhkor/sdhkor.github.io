@@ -1,6 +1,25 @@
 {
   "reports": [
     {
+      "date": "2026-05-07",
+      "session": "🌅 AM",
+      "severity": "6.5",
+      "regime": "불안정한 국면으로 판단된다.",
+      "categories": [
+        "트럼프 관세 확대",
+        "AI 반도체 경쟁 심화",
+        "미중 기술 패권 경쟁",
+        "글로벌 공급망 재편",
+        "기준금리 전망",
+        "원달러 환율",
+        "외국인 수급",
+        "국내 증시"
+      ],
+      "full": "1. 🔴 <b>심각도(Severity)</b>: <b>6.5/10</b>\n\n<b>근거:</b>\n글로벌적으로는 <b>미중 기술 패권 경쟁</b>이 트럼프의 관세 확대 시사, 포드-지리 기술 협력 결렬, 삼성전자의 중국 사업 철수 공식화, 美 배터리 '탈중국' 공급망 재편 등으로 <b>전면화되고 가속화</b>되는 양상이다. 이는 단순한 무역 분쟁을 넘어선 구조적인 글로벌 공급망 재편과 지정학적 리스크를 심화시키며, 한국에게는 특정 섹터(AI, 반도체, 2차전지)의 기회와 동시에 통상 압박 및 '선택의 기로'라는 심각한 리스크를 동시에 안겨주고 있다. 국내 증시는 AI·반도체 랠리에 힘입어 코스피 7000을 돌파하며 강세를 보이고 있으나, 이는 <b>'반도체 쏠림'</b>이라는 내재된 취약성을 동반하고 있다. 또한, 한은의 금리 인상 시사 등 국내 물가 압력도 상존하여, 글로벌 지정학적 리스크와 국내 경제의 구조적 취약성이 복합적으로 작용하는 <b>고위험-고수익의 불안정한 국면</b>으로 판단된다.\n\n2. 🌐 <b>레짐 유형(Flow)</b>: <b>RISK-OFF</b>\n\n<b>근거:</b>\n미중 기술 패권 경쟁 심화와 트럼프발 통상 리스크 확대는 글로벌 공급망 재편을 가속화하며, 기업들이 특정 지역(중국)에 대한 노출을 줄이고 동맹국 중심으로 재편하는 <b>방어적(de-risking)</b> 움직임을 보이고 있다. 한국 증시의 강세는 AI/반도체 등 특정 섹터에 대한 외국인 자금 유입에 기인하지만, 이는 글로벌 공급망 재편 과정에서 한국이 수혜를 입는 <b>선별적 RISK-ON</b> 현상으로 해석되며, 전반적인 글로벌 환경은 불확실성 증대와 지정학적 리스크 고조로 <b>안전자산 선호 및 방어 모드</b>에 가깝다.\n\n3. 🛡️ <b>전략 지침</b>:\n<b>Exposure(공격):</b> <b>미중 기술 패권 경쟁과 글로벌 공급망 재편의 수혜를 받는 AI, 반도체, 2차전지 등 핵심 기술 섹터에 대한 선별적 투자 확대.</b>\n<b>Defense(방어):</b> <b>트럼프발 통상 리스크 및 국내 금리 인상 가능성에 대비하여 현금 비중 확보 및 포트폴리오 다각화. 특정 섹터(반도체) 쏠림 현상에 대한 리스크 관리.</b>\n\n4. 👁️ <b>오늘의 통찰</b>:\n\n<b>기미 1:</b> <b>미중 기술 패권 경쟁의 전면화 및 공급망 재편 가속화.</b>\n<b>단기 시나리오:</b> <b>트럼프의 관세 확대 시사, 포드-지리 협력 결렬, 삼성전자 중국 철수, 美 배터리 탈중국 등은 미중 갈등이 단순한 무역 분쟁을 넘어 기술 및 공급망 전반으로 확전되고 있음을 보여준다. 한국은 미중 갈등의 핵심 전장이자 동시에 수혜국으로서 전략적 선택의 압박이 더욱 커질 것이며, 특정 기술 섹터(AI, 반도체, 2차전지)에 대한 글로벌 자금 유입은 지속되나, 통상 마찰 심화로 인한 비기술 섹터의 타격 가능성 증대.</b>\n\n<b>기미 2:</b> <b>국내 증시의 '반도체 쏠림' 심화와 내재된 리스크.</b>\n<b>단기 시나리오:</b> <b>코스피 7000 돌파의 주역이 AI/반도체 섹터에 집중된 외국인 수급에 기인하며, 이는 국내 증시의 글로벌 AI/반도체 사이클에 대한 의존도를 극대화시킨다. 해당 섹터의 변동성에 국내 증시 전체가 크게 좌우될 것이며, 금리 인상 가능성 등 거시경제 변수 발생 시 취약성 노출 우려.</b>",
+      "news": "🔗 <a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOWHVsajloZzJqem5HMFdqUDk2cHRnS0xXSmpIQmZKX2dxTGp6dWhSdmNDSUkwZ2lpYjZ0QjlydExUenltTGRqbG8tT3VlT1FsV0dLOF9xbExDcUZCblV1bXppUUFXV01RMGMtTktSaWcxSHFDUEFwQmlKa3BnUnhrMVlIcGduY2ZIY2VveGxiTGM?oc=5\">&#39;강제노동·과잉생산 모두 조사&#39;…트럼프발 韓 통상 리스크 확대</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IVGItRUZOSURUWkZySEZDU0ZpajZkbTdzelE0Njc5UzU0bmFvV3pTa19OOHhnYVQ5TTV1NXl0VC11TzJ3ZjNBdkdFRFJQbjZkaGJ2NDFB?oc=5\">삼성전자, 중국서 일부 가전·TV 사업 철수 공식화</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE94QTllVXA2ZVFJdE5BekNCekwyelU5SHEtdmk2cGVkei1hSGxlcU1icjN3RndCd1puVEs5WUZRNmhxeU0?oc=5\">포드-지리 기술 협력 결렬, 미중 갈등의 파고 속 한국 자동차의 선택은</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BdlZZYnNrSXdjd1MxenN2MXVCMzZGNGxQN2Y4SFp5Ykt1eENXblFQaFFMbWlBMGJNcTg5V2tZUEpncVYtb29BLXNZY1hqYW5Oenp5anJCREEyb2cyMEtaM0txSnRhclp5?oc=5\">美 배터리 &#39;탈중국&#39; 공급망 재편…LG엔솔·SK온·삼성 SDI 기회 부상</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8wWGhrUTFwRWFabF9nbjZtclI5cDRRaG91YmZ2NTdTSUJqNlh1aE1GQXVSeTZPVHczeV92VDVHemNfamtXRXUtaTVoQnM3ak1mMnBXYXRBcUFMNXAtUDdtUFgyWGtnRE5UYmdJYkN0VVbSAXBBVV95cUxPMFhoa1ExcEVhWmxfZ242bXJSOXA0UWhvdWJmdjU3U0lCajZYdWhNRkF1Unk2T1R3M3lfdlQ1R3pjX2prV0V1LWk1aEJzN2pNZjJwV2F0QXFBTDVwLVA3bVBYMlhrZ0ROVGJnSWJDdFVW?oc=5\">&quot;물가 더 뛴다&quot; 한은, 금리인상 깜빡이</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5FbnN5M0c0WHkxUTZmeW16c0ItenZNYlZjWllkYlphMjJ0THNOeXctcnJfMkIyazJvRk83WGljY3BDT1ktUklOdlRObW1SVjRZN3pvY1B2ZENVZVR4M3F1WjIxQm4xRk9FcklzazdpYmVpdjk0NWfSAWZBVV95cUxQWEVQcFZseTVOcHA5Q1NJZFlpV05NZ3NRQmlncjBxdUhIci1jSlhnVnZKTXNMVFFtd1ZqNENSOVd5TGtjSENKZ3J5a2pVR19yOE5NeHROc3lsVFFocnRQR2JqSlhpVWc?oc=5\">외국인 코스피 3조 ‘폭풍 매수’에…원달러 환율 1450원대로 뚝</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12ZjZkZGd2clpGSVZTUWVqeTk3M0tLVXhQSk84QldtUTc0c2F1OW5rRHd4VmtwNnNtZzk3TmZNeW9RcWdMUk5FZGdMdi1XcFhUSjdpV1Q1UTVzbnZERHdPNEhSV1Iyem8?oc=5\">AI·반도체가 쏘아올린 코스피 7천시대…외국인·ETF ‘수급’이 뒷받침</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQSGpGWkhIYXVQVlhmSHJPR0JpQ0F2LWctS1pUcUI0R0w4WVNRYXY4VFBNWFpXLWNNSjF5YmRuNmVWUVpSYVdZUVlubUpid25LbEc0anZRYTEtNTBsT1Z5Ulo1anE4SzV3dUYxZnlaYmdqZ0RtVXRqMUtDRzJZSHNSaThiaUZFUQ?oc=5\">[사설] 파죽지세 코스피 7000 돌파, ‘반도체 쏠림’이 숙제</a>\n\n",
+      "savedAt": "2026-05-07 07:37"
+    },
+    {
       "date": "2026-05-06",
       "session": "🌅 AM",
       "severity": "7.5",
@@ -363,7 +382,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-05-06 07:37:14",
+    "updatedAt": "2026-05-07 07:37:19",
     "source": "Apps Script",
     "version": 1
   }
