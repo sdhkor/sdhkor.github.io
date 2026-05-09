@@ -1,6 +1,25 @@
 {
   "reports": [
     {
+      "date": "2026-05-10",
+      "session": "🌅 AM",
+      "severity": "7.5",
+      "regime": "불안정 및 무역 갈등을 고조시키며, 이는 전 세계 경제에 심각한 불확실성",
+      "categories": [
+        "트럼프 관세 확대",
+        "미중 반도체 기술 경쟁",
+        "글로벌 인플레이션 재점화",
+        "AI 반도체 수요 폭증",
+        "기준금리 전망",
+        "원달러 환율",
+        "외국인 수급",
+        "국내 증시"
+      ],
+      "full": "1. 🔴 <b>심각도(Severity)</b>: <b>7.5/10</b>\n근거:\n글로벌: 미중 간 관세 확대 및 반도체 기술 패권 경쟁 심화는 글로벌 공급망 불안정 및 무역 갈등을 고조시키며, 이는 전 세계 경제에 심각한 불확실성을 야기합니다. OECD 에너지 물가 상승률 급등으로 글로벌 인플레이션이 재점화된 것은 각국 중앙은행의 긴축 기조를 장기화시키거나 재개할 가능성을 높여 경기 둔화 우려를 키웁니다. 여기에 밤새 중동에서 발생한 미상의 사건이 글로벌 시장에 충격을 주며 지정학적 리스크가 동시다발적으로 확대되고 있습니다.\n국내: 외부 자극에 원달러 환율이 하루 만에 20원 가까이 급등한 것은 국내 자본 유출 및 투자 심리 위축을 시사하며, 이는 국내 증시에 직접적인 하방 압력으로 작용합니다. 코스피200 선물 야간거래액이 약 3배 증가한 것은 중동 사태 등 외부 충격에 대한 국내 시장의 높은 불안감과 변동성 확대를 명확히 보여줍니다. 물가 비상과 성장 반등이라는 상반된 지표 속 한은의 금리 인상 가능성은 국내 경제의 불확실성을 가중시키고 있습니다. AI 반도체 수요 폭증이라는 긍정적 요인이 있으나, 미중 기술 경쟁 심화와 전반적인 거시 경제 악화가 이를 상쇄할 가능성이 높습니다.\n\n2. 🌐 <b>레짐 유형(Flow)</b>: <b>EVENT-SHOCK</b>\n근거: 글로벌 인플레이션의 급격한 재점화, 중동발 미상 이벤트로 인한 국내 증시 야간 선물 거래량 폭증, 그리고 원달러 환율의 단기 급등은 모두 예측하기 어려웠던 돌발적인 충격으로 시장에 단기적인 급변동을 야기하고 있습니다. 미중 갈등 심화는 장기적인 리스크이나, 트럼프의 방중 임박이라는 시점과 맞물려 단기적인 불확실성을 극대화하고 있습니다.\n\n3. 🛡️ <b>전략 지침</b>: <b>Defense(방어)</b>\n핵심 요약: 다중적인 글로벌 및 국내 리스크가 동시다발적으로 발생하며 시장의 불확실성이 극대화된 상황입니다. 안전자산 비중을 확대하고, 변동성이 큰 위험자산에 대한 노출을 최소화하며, 환율 변동성에 대비한 헤지 전략을 고려해야 합니다.\n\n4. 👁️ <b>오늘의 통찰</b>:\n포착된 기미 1: <b>글로벌 스태그플레이션 압력 재부상</b>\n글로벌 인플레이션 재점화(에너지 물가 급등)와 미중 무역/기술 갈등 심화로 인한 공급망 불안정은 비용 상승 압력을 가중시킵니다. 이는 각국 중앙은행의 긴축 기조를 유지하게 하여 경기 둔화 우려를 높이는 동시에 물가 상승을 동반하는 스태그플레이션 환경으로의 회귀 가능성을 시사합니다.\n포착된 기미 2: <b>지정학적 리스크의 즉각적인 시장 전이</b>\n중동발 미상 이벤트가 국내 증시 야간 선물 거래량 급증으로 즉각적으로 이어진 것은 지정학적 리스크가 과거보다 훨씬 빠르고 직접적으로 금융 시장에 영향을 미치고 있음을 보여줍니다. 이는 미중 담판 결과에 따라 시장 변동성이 더욱 확대될 수 있음을 의미합니다.\n단기 시나리오:\n단기적으로 글로벌 증시는 미중 정상회담 결과와 중동 사태의 전개 양상에 따라 극심한 변동성을 보일 것입니다. 원달러 환율은 추가 상승 압력을 받을 가능성이 높으며, 외국인 투자자들은 국내 증시에서 위험 회피 심리로 인해 매도세를 이어갈 수 있습니다. AI 반도체 섹터는 펀더멘털 강세에도 불구하고 전반적인 시장 불안정성으로 인해 단기적인 조정 압력을 받을 수 있습니다. 한은은 물가와 성장 사이에서 금리 인상 여부를 두고 고심하며 시장에 추가적인 불확실성을 제공할 것입니다.",
+      "news": "🔗 <a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE13TWVMOEdSanlielluejlVSzRyLVE5M2s3ZTFYYWhiVmtSY2swVnR5UmRrZkpxSlhSb0lVMHlma1FxZHMybG80eVZXR2UtbS1HVFlVNEJXd3BkZ2NZWVE?oc=5\">트럼프, 방중 임박…시진핑과 &#39;이란·대만·무역&#39; 세기의 담판</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNMlFQcXZvaGNsRUF1R1VzQVJpZWY4U3pXSFJKLWhOeGhCeWMtVEJPa1NNMGJhVjNzYkdCdmJCZk9Za1JVT0ZBbjNyUGlfYXdPVXZFNDJnRXVDSDdTQm43dTZRelNJMk5McjBtb1hsNmppVGRjbG4tbjRRY19wTFNHWVRraVk2OHRmNkVjVjFhaGVuVEZJR2RudC1WUHA2TG1TV001X0l2SldyU0ZjVkY5aHJyLV80eVc1VTBGak5CVmdmMzJqN2tVQktFcTAwa3dqbm9UWEozdWRSLVR4T0M3ckh0ZFkxT3M4NXV6M09RNVFoTmtBdXdUNWppUTV6ZWFQc1HSAYQCQVVfeXFMTnE2bTJMRXhpclJURVRZY3dSNERJdWdubHh5dE94cG5GMll2Qm11MGluaDFkbFhCVzh0NUZDaWUyYnh4MlNkaEZuYk5QaWNUV19zMjlRV3N3RDViZWw5SEJiZ0tPTTRtUHlZX0Vva295NWdQdWhQRTMtUVJKRkM1MzJVNjNIUmJNWWZRSU5jU0JsdGV5YzgzN19oNWI1NUZCSzZNaVNyTUhFQnRYVkZhOU11UHhZVngxd2l2Qml2clNwSGZFSHhBUXdPczRVbDFadDJza3RMOUtDWlBaSG9ZU2MtYzVydGNjRE03T1lMc1htb0p4VG9yRFVERnh3SVpnLXFjTzc?oc=5\">미중 AI 패권 경쟁…“국가 전략자산 선점해야”</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE45SHY0aFdEVEZIYjBOM3ZMQ3JVUEtsQ09HZ3F1ZWZiRWF5UkRwckJpNlJLREpuWXBOMWdCQ0lUVVB1bEFtd3U5LXYyRXk0X0gxZ3V2UmtpYnp6YlNvYVZldg?oc=5\">OECD 에너지물가 상승률 한달새 8.6%p↑…글로벌 인플레 재점화</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10ZktfakgxWmlYdkJuaU5MY0FtenpmM1NWMnVxUlp0WVRpdncwbmlpTUVBN1BoVndLWDZqNXhzTmlSZVVxVEdudVJFSDdTV1lnVm1nV2VuYUdwSFFSZXh1dmR1M2psRmM?oc=5\">마이크론, AI 수요 폭증에 매출 급증</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vandZNTBZZFJ0ZGhsV1BFM0RnczU0czFQWVVyS3FGUXlyM2JQcDVNRVBGalEyVEN3Ql83S2xYQWNJYXNWcWxKUWRPUHhfanM?oc=5\">물가 비상, 성장은 반등…한은, 여름에 금리인상 단행하나</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHT3B2SjhOcExVLUhNOEJ2Ynh5X3c3YVFZRXA1UXJoNDVUTDlwOHhXZ2dUVHZ3LWRvTzBTbzVwb3RhZTZkWlZqa2UxU2ZoazYxT2hmekhtTVR4bGJKSFdSUNIBeEFVX3lxTE8wY1VXdWpJb09RUTQ3SGx0TW1jV3JqUVk5WkRhU2ZTN0lXS3pOMTVELVEyZlNSMHpmVGx6ZVBGbm51M0RoUWtKOXFpaFhob0ZyaDRQT3Z0WDlkTVA5cC1EcWthTEtCbEVQN09XcllIT0JyWjd3anJmWQ?oc=5\">하루 만에 20원 가까이 급등한 환율…외부 자극에 &#39;요동&#39;</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBNYmlqOVVKUHhRMmtBS1UxUUxZdmtEb1RFWTdDNG1IRVZoZTJOeHBYb3R4UllJSlpZT2RFTEFKRGg5V1cxZWJlcUM3T1NqVGdQQXpSbmpGZURWU2NLd3hOYm55TlFiWEl6VHQ3T0loLTQ?oc=5\">[SK하이닉스 주가전망] 🚨D-1🚨 삼성전자 실적발표 &#39;이 구간&#39; 신호온다!! #SK하이닉스 #SK하이닉스주가 #SK하이닉스전망 #SK하이닉스주가전망 (3tCNccFlN5)</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE83Yk41T0Njc1JiUkowS1U3LXZRWkpaakhRVFpFdWRyckFLRGV0bkZhZGQ0OG5zSzBndlFIVURDUzRwUzQ3UW5LV2Zid2NwczF4NVpLRVlabzhiYm_SAWBBVV95cUxQdEhuZ0JoaTJ3XzlHaUpCRnlpaDF5T3JOSWw3REFvQXE5ZTcxRVNDeGU0eC1MeXNKcDI1X3J0aTI5cUNMSTdLWnprZ3BmSnBrcU13bkVRRlA0UzRlQ1daVEc?oc=5\">밤새 중동에 무슨일이?…코스피200 선물 야간거래액 약 3배 증가</a>\n\n",
+      "savedAt": "2026-05-10 07:37"
+    },
+    {
       "date": "2026-05-09",
       "session": "🌅 AM",
       "severity": "7.5",
@@ -419,7 +438,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-05-09 07:37:18",
+    "updatedAt": "2026-05-10 07:37:11",
     "source": "Apps Script",
     "version": 1
   }
