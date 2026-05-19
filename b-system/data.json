@@ -1,6 +1,25 @@
 {
   "reports": [
     {
+      "date": "2026-05-20",
+      "session": "🌅 AM",
+      "severity": "6.5",
+      "regime": "전환되고, 이에 따라 미국 국채금리가 급등하며 뉴욕 증시가 일제히 하락한",
+      "categories": [
+        "미국 연준 금리 인하 전망",
+        "미중 기술 패권 경쟁 심화",
+        "AI 반도체 시장 주도권",
+        "중동 지정학적 리스크 유가",
+        "기준금리 전망",
+        "원달러 환율",
+        "외국인 수급",
+        "국내 증시"
+      ],
+      "full": "1. 🔴 <b>심각도(Severity)</b>: 6.5/10 점\n\n근거: <b>미국 연준의 금리 인하 기대가 금리 인상 가능성으로 급격히 전환</b>되고, 이에 따라 <b>미국 국채금리가 급등하며 뉴욕 증시가 일제히 하락</b>한 것이 핵심. 이는 글로벌 금융 시장의 유동성 환경에 대한 근본적인 변화를 시사하며, 투자 심리에 심각한 악영향을 미치고 있음. <b>중동 지정학적 리스크 지속으로 국제유가 상승 압력</b>이 가중되어 인플레이션 우려를 키우고, <b>미중 기술 패권 경쟁 심화</b>는 장기적인 불확실성을 더함. 국내 경제는 반도체가 견인하고 있으나, 글로벌 금융 시장의 급격한 변화는 국내 시장에 심각한 영향을 미칠 수밖에 없음.\n\n2. 🌐 <b>레짐 유형(Flow)</b>: EVENT-SHOCK\n\n근거: <b>미국 연준의 금리 인하 기대가 금리 인상 가능성으로 급격히 전환</b>되면서 시장의 예상 경로가 크게 이탈하고 있음. 이는 <b>미국 국채금리 급등과 뉴욕 증시의 일제 하락</b>이라는 단기적인 충격으로 이어지고 있으며, <b>중동 리스크로 인한 유가 상승</b>까지 겹쳐 인플레이션과 긴축 우려가 동시에 증폭되는 돌발적인 상황.\n\n3. 🛡️ <b>전략 지침</b>: <b>Defense(방어)</b>: <b>위험자산 비중 축소 및 현금 비중 확대</b>. <b>변동성 확대에 대비한 포트폴리오 방어적 재편</b>. <b>금리 및 유가 동향 면밀히 주시</b>.\n\n4. 👁️ <b>오늘의 통찰</b>:\n포착된 기미:\n   <b>기미 1: 연준의 금리 정책 스탠스 급변 가능성</b> - 시장이 금리 인하 대신 인상 가능성을 43%까지 반영하며, 기존의 완화적 기대가 급격히 붕괴되고 있음. 이는 글로벌 유동성 환경의 근본적인 변화를 예고.\n   <b>기미 2: 글로벌 긴축과 국내 경제 체감의 괴리 심화</b> - 미국 국채금리 급등과 증시 하락으로 글로벌 긴축 압력이 커지는 가운데, 국내 경제는 반도체 호조에도 불구하고 일반 체감 경기는 여전히 부진하다는 평가. 이는 글로벌 충격에 대한 국내 시장의 취약성을 높일 수 있음.\n\n단기 시나리오:\n   <b>시나리오 1: 글로벌 금융 시장의 추가적인 변동성 확대</b> - 연준의 매파적 전환 가능성으로 인해 미국 국채금리가 추가 상승하고, 이는 글로벌 증시 전반의 하방 압력으로 작용할 것. 특히 기술주 중심의 성장주에 대한 투자심리 위축이 예상됨.\n   <b>시나리오 2: 원화 약세 압력 가중 및 국내 증시 조정</b> - 글로벌 달러 강세와 외국인 투자심리 위축으로 원달러 환율의 추가 상승 압력이 커지고, 국내 증시는 반도체 섹터의 선방에도 불구하고 전반적인 조정 국면에 진입할 가능성.",
+      "news": "🔗 <a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsN0FFN1I2enMtcWZaWHp1U1c5anoxUGRDazJGcXVmTTdwbU04X0tBY25ubV9vdkFyeG05QkFJdE1Ha2tLcDI1UDMxZjBSbW1OVW9IQnllTkM3SWphMWc?oc=5\">&quot;다음은 금리인상?&quot;…예측시장서 연내 연준 긴축 확률 43%</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNQ0Zidkt2OElzblBOTlMwRkV1OWpfZEs1eGFKTHRfQXZoaF81QlJwZFoxY1A1Q3ljRjBtbG1TamlGN2ZZRTBnNEVHWkFNUVFfX0M1eURXNGdTaTFpLUJKQng3S2s3X2s?oc=5\">[기획story] 미-이란 충돌 이후 가속된 미중 패권 경쟁…에너지·기술·달러, 세 개의 전선</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE51TlpsTC1zMFJGdDB2blRhaC0tdjI2Zk9DbVVsbHBZQ3lGaEtHdzFZQllVajl2RTVUOEhOckM2T1dZend1a3pfRlZVenl2ODh6UWtKb25YdjRmZTJ1YjdQLUVCZmc5RldWaHRKeVJhTlR0Ny1t?oc=5\">한미반도체 곽동신 회장, 80억 자사주 추가 취득…지분율 33.6%로 확대 |</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1NOHFpMjBiZkdpVVBaQ01EbG9HU2YxWjdzR29BaWd4dWh6Sm5JMU4zQy1veTNzVzQ2ZGpxc3VTQnh2cl95bFAteHhneFlFZ3IxUEpXT2hFQUJzeHJWYWtjT0xlemtjd3BmZ2c?oc=5\">중동 지정학적 리스크 지속되며 국제유가 상승</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LNEhnRExTVzJaQVRGaDdULWl3ejFCS2RmZWZuOVJzY1phYXJFbXlOS1RSUnJvcWNEamwzeTY4blJteXFhdkVQWDl2TzY5UFhYc0w3c3ppSGRrN1hQaElha9IBYEFVX3lxTE5LNEhnRExTVzJaQVRGaDdULWl3ejFCS2RmZWZuOVJzY1phYXJFbXlOS1RSUnJvcWNEamwzeTY4blJteXFhdkVQWDl2TzY5UFhYc0w3c3ppSGRrN1hQaElhaw?oc=5\">금융지주들이 본 올해 韓 경제…&quot;반도체가 견인, 체감과는 괴리&quot;</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XaTNsV1o5ZzVXQ0xtMl9SMy1KWGhNa2tvcHVoRG5CYXF2V2JyZHc2TWtUSU92QUhoRWE5cU9oUFk0UjdUaEFpMmV4ei1JSVRfOG9Ya19YMlNkUXlIQVM0OdIBYEFVX3lxTE5XaTNsV1o5ZzVXQ0xtMl9SMy1KWGhNa2tvcHVoRG5CYXF2V2JyZHc2TWtUSU92QUhoRWE5cU9oUFk0UjdUaEFpMmV4ei1JSVRfOG9Ya19YMlNkUXlIQVM0OQ?oc=5\">평양선 1달러에 7만100원, 올들어 80% 뛰어…&quot;통화량 증가 때문&quot;</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQT0l5UnVBOGdxa0pBNGFSWGw3aDVzSldIV0VxbFhLVk9iaUJKV3V3SlNzc1JLTU9pSEFfT1Bob1lJcEd5UGpiNjNWTG4xUGhoYWlrc1E3b29KYzBxREtZNVJnV2U5OXcyY3pVeXlial9BREhjYy05UVphUnhJUTA3bw?oc=5\">외국인ㆍ이민자 인력수급 추계 연구</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA5YkxEN1NoSndOVk1ZUUN1azJKQ2dPNjcwUGpoRGtIc1JudjgxZmV1MlFvdWVHdW1rMkIwNW5wRlFLVDZNOG5UMWFUUU96Q0dmeHlsTVBqeTB4S1p5UXBpUTRFb29qNUdOR0FDX2RRWGM1VXpV?oc=5\">[글로벌증시] 美국채금리 급등…뉴욕증시 일제히 하락</a>\n\n",
+      "savedAt": "2026-05-20 07:37"
+    },
+    {
       "date": "2026-05-19",
       "session": "🌅 AM",
       "severity": "8.5",
@@ -609,7 +628,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-05-19 07:37:20",
+    "updatedAt": "2026-05-20 07:37:12",
     "source": "Apps Script",
     "version": 1
   }
