@@ -1,6 +1,25 @@
 {
   "reports": [
     {
+      "date": "2026-06-22",
+      "session": "🌅 AM",
+      "severity": "7.8",
+      "regime": "위기 신호입니다. 이는 수입 물가 상승을 통한 인플레이션 압력 가중, 외",
+      "categories": [
+        "트럼프 재집권 보호무역",
+        "AI 반도체 투자 경쟁",
+        "미중 기술 패권 갈등",
+        "글로벌 인플레이션 재점화",
+        "기준금리 전망",
+        "원달러 환율",
+        "외국인 수급",
+        "국내 증시"
+      ],
+      "full": "1. 🔴 <b>심각도(Severity)</b>: 7.8/10\n근거:\n글로벌: 트럼프 재집권 가능성으로 인한 보호무역주의 강화와 미중 기술 패권 갈등 심화는 글로벌 교역 환경의 불확실성을 극대화하고 있습니다. 호르무즈 해협 리스크와 HBM 수요발 글로벌 인플레이션 재점화는 주요국들의 추가 금리 인상 압력을 높여 경기 둔화 우려를 키우고 있습니다. 이는 단순한 경기 변동을 넘어선 구조적 위험으로 작용합니다.\n\n국내: 원·달러 환율이 1500원을 넘어선 것은 국내 경제의 심각한 위기 신호입니다. 이는 수입 물가 상승을 통한 인플레이션 압력 가중, 외국인 자본 유출 우려, 기업 및 가계의 이자 부담 심화로 이어집니다. 한·미 금리 인상 시사는 이러한 부담을 더욱 가중시킬 것이며, 이미 3년째 이자 부담을 겪는 기업들에게는 치명적일 수 있습니다. 국내 증시의 동전주 증가와 상장폐지 본격화는 전반적인 기업 환경 악화와 시장의 취약성을 보여줍니다. 이재명 정부의 국가안보실 인사 교체는 이러한 복합적인 대내외 위협에 대한 정부의 위기감을 반영합니다. 외국인 투자자들이 '삼전닉스'를 매수하며 코스피 9000선에 안착한 것은 긍정적이지만, 이는 특정 대형주에 국한된 현상으로 전반적인 시장의 불안정성을 상쇄하기에는 역부족입니다.\n\n2. 🌐 <b>레짐 유형(Flow)</b>: EVENT-SHOCK\n근거: 원·달러 환율 1500원 돌파, 글로벌 인플레이션 재점화, 한·미 금리 인상 시사 등은 단기적으로 시장에 급격한 충격을 주는 돌발적인 사건들입니다. 이러한 복합적인 충격은 경제 시스템 전반에 걸쳐 불확실성을 증폭시키고, 기존의 안정적인 흐름을 급변시키는 요인으로 작용하고 있습니다. 정부의 긴급한 안보실 인사 교체 또한 이러한 급변하는 상황에 대한 대응으로 해석됩니다.\n\n3. 🛡️ <b>전략 지침</b>: Defense(방어)\n핵심 요약: <b>유동성 확보, 고금리 및 고환율 변동성 대비, 지정학적 리스크 회피. AI 반도체 등 특정 성장 섹터에 대한 선별적 접근.</b>\n\n4. 👁️ <b>오늘의 통찰</b>:\n포착된 기미:\n1.  <b>환율 1500원 돌파와 금리 인상 시사</b>: 단순한 변동성을 넘어선 구조적 약세 및 자본 유출 압력 심화.\n2.  <b>AI 반도체 섹터의 독자적 강세</b>: 전반적인 시장 불안 속에서도 AI 관련 대형 기술주(삼전닉스)는 외국인 매수세로 견조한 흐름. 이는 시장 양극화 심화의 신호.\n3.  <b>정부의 경제안보 강화 움직임</b>: 국가안보실 인사 교체는 미중 기술 패권 및 보호무역주의 심화에 대한 정부의 위기감과 선제적 대응 의지 표명.\n\n단기 시나리오:\n1.  <b>환율발 인플레이션 및 금리 인상 가속화</b>: 원화 약세가 수입 물가를 추가로 자극하고, 이는 한국은행의 기준금리 인상 압력을 가중시켜 기업 및 가계의 이자 부담을 심화시킬 것.\n2.  <b>시장 양극화 심화 및 중소기업 위기 가시화</b>: AI 반도체 등 특정 대형 기술주 중심의 외국인 매수세는 지속되겠지만, 고금리, 고환율, 내수 부진으로 동전주 증가 및 상장폐지 가속화 등 중소기업 및 비주력 섹터의 위기가 더욱 명확해질 것.\n3.  <b>지정학적 리스크의 경제적 파급 효과 증대</b>: 트럼프 재집권 가능성 및 미중 기술 패권 갈등 심화는 한국의 외교적, 경제적 불확실성을 증폭시키고, 특정 산업(예: 반도체, 배터리)에 대한 공급망 재편 압력을 가중시킬 것.",
+      "news": "🔗 <a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBndU03MGNBNTdsckNXMGV1Zk5HU0ZBdl94eno5YzZfaUs0YkxmZHFLdDJzZ3ZZRU1fNklJVmpYRHlWUkV3eHktVU93Nm91amRmYTRXTW9ud01YS2o5REt4eVAxUjV2OTlzM3FpQkxR?oc=5\">이재명 정부 1년, 국익 중심 실용외교의 시험대… 외교부 역할 주목</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE05Smt2dEZKMlZJUkZfNG9fbWE2STVNQ2x3Y3EtTDZZMHRCT0JWZVNLREloNFJNeUJUVDlJYlJib2tXZ2oxX2kwc1hiSWljV0lCZVBZSjZRaWNfM0pZV0FfbTVn?oc=5\">엔비디아, AI 붐 속 ‘투자 큰손’ 부상…고객·스타트업까지 생태계 장악</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WQVpKNkZsUmVFaG5mX3hpc0djY3VsVy01Ykd5TW1YSzNKcEVGOEtPZDhMelRPTWU5VVc4dkRWNDZ5N2tJN2lEOXBUa1Jrbzh6blBrWWFPTlFMMG1kZzVfcEZ0NkdZTlE?oc=5\">이재명 대통령, 국가안보실 1·3차장 새인물로 교체...군사·경제안보 강화</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sNFNpSzBTU05fU0FHM0V4YW5pUllVS1FWRDN6Y1BOdDIzR3VDSUlHamhiaW9qY2tLeFV4dG1maUs4TjlIOWdURkdDYUJSYjd1T1FERk1kYUtXQzlzTmFwYmUxYWZXRlVG?oc=5\">[월가 리포트]호르무즈·물가·HBM &#39;운명의 한 주&#39;…뉴욕증시, 세 가지 시험대 오른다</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsQ3ZlMDFaSnBVcGR6MTNPTEMzclplaGYxQUlVVVJLVGQtNEpmQW9PanNXYXNWckFSMEdZbENyZUYzME9RaE5qa0NBaHRXX3FSUm5kbFJucDZKUdIBVEFVX3lxTE15RmhxRHZYZUdNajZiS0JNWWxuQzlMYWIzZktVN3NVdGIzOV9iZUJackJpUW5WUm9IYW5jdW1uVFpYTWFRUUZoX2NYTmd5MFFoaDZmRA?oc=5\">한·미 금리 인상 시사…3년째 이자 부담 큰 기업은? [한경우의 케이스스터디]</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FSGpZbktsdW1jbFljekVCYk1jWEpta1JuUFJMdGM5eUdFUkh5ZmRmbm0ydHNMQldCYjhlX21LbWdCV0hLRVJyX3FBZ003SXN3amc3Vy1LR3HSAVhBVV95cUxPRUhqWW5LbHVtY2xZY3pFQmJNY1hKbWtSblBSTHRjOXlHRVJIeWZkZm5tMnRzTEJXQmI4ZV9tS21nQldIS0VScl9xQWdNN0lzd2pnN1ctS0dx?oc=5\">[전문가 기고] 원·달러 환율, 왜 다시 1500원을 넘어섰나</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE50WkZySlJ6NTBGV1p2QjFtUXAtdzFvRDlWRVhBVldRZ3I3SVg5eDYxVWZPc2l6dUQ1WlVUN2JYZFloaVRUWWhyeUxVc3d6WUhFeGMxVA?oc=5\">[주간수급리포트] 개인이 던진 ‘삼전닉스’ 외인이 받았다⋯수급 공방 속 코스피 9000선 안착</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iU0Vpa1dPZmV1cnhtSmE1c1NiQ3hVRkNQNWZ5bVk2VjF2UWNTMkxNY0oyZjc4ekVSUWN5NGVsZDJJR2d0N1YxeUxjTUFfQzA?oc=5\">국내 증시 ‘동전주’ 219개… 7월부터 상장폐지 본격화세 [경제레이더]</a>\n\n",
+      "savedAt": "2026-06-22 07:37"
+    },
+    {
       "date": "2026-06-21",
       "session": "🌅 AM",
       "severity": "8.5",
@@ -856,7 +875,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-06-21 07:37:19",
+    "updatedAt": "2026-06-22 07:37:12",
     "source": "Apps Script",
     "version": 1
   }
