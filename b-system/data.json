@@ -1,6 +1,25 @@
 {
   "reports": [
     {
+      "date": "2026-06-23",
+      "session": "🌅 AM",
+      "severity": "7.5",
+      "regime": "불안정성이 급격히 고조되고 있습니다. 이러한 급격한 환율 변동은 국내 기",
+      "categories": [
+        "미국 대선 후 보호무역",
+        "AI 반도체 시장 성장",
+        "글로벌 인플레이션 재확산",
+        "지정학적 리스크 공급망 불안",
+        "기준금리 전망",
+        "원달러 환율",
+        "외국인 수급",
+        "국내 증시"
+      ],
+      "full": "1. 🔴 <b>심각도(Severity)</b>: 7.5/10 점수\n\n근거: 글로벌 인플레이션 재확산과 지정학적 리스크(미·이란 협상 중단, 레바논 전선)가 심화되며 글로벌 공급망 불안을 가중시키고 있습니다. 이는 원자재 가격 상승 압력으로 작용하여 국내 물가 상승 기대와 기준금리 인상 전망을 크게 높이고 있습니다. 특히, 달러 강세가 심화되어 원달러 환율이 열흘 만에 1,530원대를 돌파하고 장중 1,540원에 육박하는 등 국내 외환 시장의 불안정성이 급격히 고조되고 있습니다. 이러한 급격한 환율 변동은 국내 기업의 수입 물가 부담을 가중시키고 외국인 자금 유출 우려를 키워 국내 증시에 상당한 하방 압력을 가할 것으로 예상됩니다. 비록 AI 반도체 시장의 성장과 코리아 디스카운트 해소 발언이 긍정적 요소로 작용할 수 있으나, 전반적인 거시경제 환경의 급격한 악화와 외환 시장의 불안정성이 심각한 수준에 도달하고 있어 높은 심각도를 부여합니다.\n\n2. 🌐 <b>레짐 유형(Flow)</b>: EVENT-SHOCK\n\n근거: 미·이란 협상 중단이라는 돌발적인 지정학적 충격이 글로벌 인플레이션 재확산과 공급망 불안을 촉발하고 있으며, 이에 따라 원달러 환율이 단기간 내 1,530원대를 넘어 1,540원까지 육박하는 등 시장에 급격한 변동성을 야기하고 있습니다. 이는 단순한 위험 회피 단계를 넘어선, 예측하기 어려운 외부 충격에 의해 시장의 방향성이 급변하는 상황으로 판단됩니다.\n\n3. 🛡️ <b>전략 지침</b>:\nDefense: 급격한 환율 변동성 및 지정학적 리스크에 대비하여 안전자산 비중을 확대하고, 금리 인상에 취약한 부채 비중이 높은 기업 및 수입 의존도가 높은 기업에 대한 노출을 축소해야 합니다.\nExposure: AI 반도체와 같이 구조적 성장이 기대되는 특정 섹터 내에서도 재무 건전성이 우수하고 환율 변동에 강한 기업에 한해 선별적인 접근이 필요합니다.\n\n4. 👁️ <b>오늘의 통찰</b>:\n포착된 기미 1: <b>지정학적 리스크 발발이 환율 급등의 직접적 트리거로 작용</b>\n미·이란 협상 중단과 레바논 전선 긴장 고조가 글로벌 인플레이션 재확산의 명확한 원인으로 지목되며, 이는 달러 강세와 원화 약세를 가속화하는 직접적인 방아쇠가 되었습니다. 단기 시나리오: 중동발 지정학적 긴장이 완화되지 않는 한, 원달러 환율은 1,540원 이상으로 추가 상승 압력을 받을 가능성이 높으며, 이는 국내 증시의 외국인 자금 이탈을 심화시킬 것입니다.\n\n포착된 기미 2: <b>스태그플레이션 우려 심화와 금리 인상 압력 가중</b>\n글로벌 인플레이션 재확산과 국내 집값 기대 상승에 따른 금리 수준 전망의 최대폭 상승은 스태그플레이션(경기 침체 속 물가 상승) 우려를 키우고 있습니다. 단기 시나리오: 한국은행은 물가 안정을 위해 추가적인 기준금리 인상 압박에 직면할 것이며, 이는 기업의 자금 조달 비용 증가와 가계 부채 부담을 가중시켜 경기 둔화 속도를 높일 수 있습니다.\n\n포착된 기미 3: <b>매크로 악재 속 특정 성장 섹터의 투자 매력 부각</b>\n전반적인 거시경제 악화에도 불구하고 AI 반도체 시장의 성장은 지속적인 투자를 유치하고 있습니다. 단기 시나리오: 시장 전반의 변동성이 커지는 가운데, AI와 같은 미래 성장 동력 섹터 내에서도 기술력과 재무 건전성을 갖춘 선도 기업들은 장기적인 관점에서 투자자들의 관심을 지속적으로 받을 수 있으나, 단기적인 시장 충격에서는 자유롭지 못할 것입니다.",
+      "news": "🔗 <a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPRjlKR2huTUxoNWd1Y3FQN0FPMzM2ajBCZFZETnVSLWNtYmsyT2VHcTRCMHNjanRWem00Q2I3Y004eFEzcGNuSlBiOGdMT3N0RkVFYjVyVzlFS2lwbDkxMTZlVE54cVVWZm1GNGpMQmk2U3pISkpVSGZsZnJwVnFpaEtzeEN3LUc2WUZKZlJ1SQ?oc=5\">미래에셋 퓨리오사 IPO 주관에…100억 직접 투자도 : 네이버 블로그</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLS3FZb3RFbWJDRERHX1FCakI5cE5XOF8tTnpUVkh4QlRxQ3JqYnJoaHJOR0luYVRXUV9UVmxxYVA5eXBCSDFNaWpTS3FUeTNPbmRrcDZ4dWZ4ZVNiVlZoemIwd3piYmPSAWdBVV95cUxQS0txWW90RW1iQ0RER19RQmpCOXBOVzhfLU56VFZIeEJUcUNyamJyaGhyTkdJbmFUV1FfVFZscWFQOXlwQkgxTWlqU0txVHkzT25ka3A2eHVmeGVTYlZWaHpiMHd6YmJj?oc=5\">미·이란 스위스 협상 80분 만에 중단…레바논 전선이 핵협상보다 더 큰 걸림돌</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBYWDFvdmQ2aHZ3NWJRZzhPXzk5QzJ6b0xhbDJ6R1dvTjVISkJLdFJKRExiZ1Z6ekEtNUg2LWxrd0Q0RmFJSXfSAWJBVV95cUxQR3F4TDRtS3RNdlZtRzZIcFBpbU5SVFV5ZXcxSENYYUlUNzJ2VnI4VUV2aURLbjI3MTFRQ3BLSlUtRGt6SU5yMTRiUTVIdFliWG01OHh3cklnYktrZE55eWlrQQ?oc=5\">“DIP 금융 결합한 기업 리사이클링 솔루션으로 위기 기업 갱생 이끌 것”:동아경제신문 &amp; daenews.co.kr</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02LXFLQW9kYUtPQXRKa0ktaU5WeWN3c0VXZXhIZDdLdl9BYVV6bFg1SjQ0V212Z1NNb3o5eXRyblVldW1SdDNaRExuXzhrZ3hOLTRKT0lCdV9qc2tyWTBHMWl4emx5eVE?oc=5\">집값 기대 또 뛰었다…금리수준 전망 9년 반 만에 최대폭 상승</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE83T2NZcWpVMVBtaXJ5OGJFUlpPbmUtcExJdmVTclVYZDB3TXZqVjE3eHRKb29LQ0hFNFptUmpOTDJkUy16ZEtiZTA2ajRxc1FYMWlIblJRXzhIY0ptSkx2StIBYEFVX3lxTE83T2NZcWpVMVBtaXJ5OGJFUlpPbmUtcExJdmVTclVYZDB3TXZqVjE3eHRKb29LQ0hFNFptUmpOTDJkUy16ZEtiZTA2ajRxc1FYMWlIblJRXzhIY0ptSkx2Sg?oc=5\">환율, 달러 강세에 열흘 만에 1,530원대로…장중 1,540원 육박</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLUkZ0TEhQd3I4bDU4dkhSdTlmMHRoal9XOG5CeDJJZmhUMTVtVzFwOU04ZDZReURrbWZMRzZtRThiTmtwd1JYaVh4QQ?oc=5\">외국인도 실업급여 1000억 시대… “비자 유형별 수급 불균형 심화”</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE90VHliR04zYVFVTjV2c3djQ0YyOGhwRjEzcHpqQnJha2ZDMURUUDRGd2xDdEFCVGRLOHlUdHJJVVZ3SmMxS2ZOb2I1LXFoSmRMM1RKVzVWRjlrVlg0VzR4ZdIBYEFVX3lxTE90VHliR04zYVFVTjV2c3djQ0YyOGhwRjEzcHpqQnJha2ZDMURUUDRGd2xDdEFCVGRLOHlUdHJJVVZ3SmMxS2ZOb2I1LXFoSmRMM1RKVzVWRjlrVlg0VzR4ZQ?oc=5\">정은보 &quot;증시, 코리아 디스카운트 상당 해소&quot;…외신 간담회</a>\n\n",
+      "savedAt": "2026-06-23 07:37"
+    },
+    {
       "date": "2026-06-22",
       "session": "🌅 AM",
       "severity": "7.8",
@@ -875,7 +894,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-06-22 07:37:12",
+    "updatedAt": "2026-06-23 07:37:18",
     "source": "Apps Script",
     "version": 1
   }
