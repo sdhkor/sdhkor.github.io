@@ -1,6 +1,21 @@
 {
   "reports": [
     {
+      "date": "2026-06-28",
+      "session": "🌅 AM",
+      "severity": "7.0",
+      "regime": "위기에 직면해 있습니다.",
+      "categories": [
+        "기준금리 전망",
+        "원달러 환율",
+        "외국인 수급",
+        "국내 증시"
+      ],
+      "full": "[B-System 연기적 분석]\n\n1. 🔴 <b>심각도(Severity)</b>: 7.0/10 점\n\n<b>근거</b>:\n글로벌적으로는 美 금리 인상론 제동으로 유동성 환경에 긍정적인 신호가 있으나, 국내 시장은 이를 상쇄하고도 남을 심각한 복합 위기에 직면해 있습니다.\n첫째, <b>원달러 환율이 1550원 코앞까지 치솟으며 당국 개입설이 나올 정도의 심각한 수준</b>에 도달했습니다. 이는 단순한 환율 변동을 넘어선 자본 유출 압력, 수입 물가 상승 압력, 그리고 외국인 투자 심리 위축으로 이어지는 핵심적인 불안 요인입니다.\n둘째, <b>외국인 매도세가 지속</b>되며 국내 증시의 하방 압력을 가중시키고 있습니다. 반도체 랠리 재개 기대감에도 불구하고 실제 자금 이탈이 이어지고 있다는 점은 국내 시장의 매력도가 떨어지고 있음을 방증합니다. 이는 약한 환율과 연계되어 더욱 심화될 수 있습니다.\n셋째, <b>단일종목 레버리지 증가로 인한 증시 변동성 '폭탄'</b>은 국내 증시의 내재적 취약성을 극대화하고 있습니다. 특정 종목의 급락 시 시장 전체로 파급될 수 있는 시스템 리스크를 내포하며, 외부 충격에 대한 방어력을 현저히 약화시킵니다.\n종합적으로 볼 때, 글로벌 금리 동결 기대감이라는 긍정적 요인에도 불구하고, 국내는 환율발 금융 불안, 외국인 자금 이탈, 그리고 내재된 증시 구조적 위험이 복합적으로 작용하며 <b>단기적인 충격과 높은 변동성에 노출된 매우 심각한 상황</b>으로 판단됩니다.\n\n2. 🌐 <b>레짐 유형(Flow)</b>: EVENT-SHOCK\n\n<b>근거</b>:\n환율 1550원 근접과 당국 개입설은 <b>단기적인 돌발 충격에 가까운 수준의 금융시장 불안</b>을 야기하고 있습니다. 이는 단순한 위험 회피(RISK-OFF) 단계를 넘어, 특정 이벤트(환율 급등)가 시장 전반에 급격한 변동성과 불확실성을 초래하는 상황입니다. 외국인 매도세 지속과 국내 증시의 단일종목 레버리지 취약성은 이러한 충격이 발생했을 때 그 파급력을 증폭시킬 수 있는 요인으로 작용하여, 시장이 단기적으로 급변할 수 있는 EVENT-SHOCK 레짐으로 판단됩니다.\n\n3. 🛡️ <b>전략 지침</b>: Defense(방어)\n\n<b>핵심 요약</b>:\n<b>자산 방어 및 현금 비중 확대. 고위험 자산 노출 축소. 환율 변동성 및 외국인 수급 동향 면밀히 주시.</b>\n\n4. 👁️ <b>오늘의 통찰</b>:\n\n<b>포착된 기미</b>:\n1.  <b>환율발 금융시장 불안 심화</b>: 1550원 근접 환율과 당국 개입설은 단순한 환율 변동을 넘어선 금융시장 전반의 불안 심화 기미. 외국인 매도세와 연계되어 자본 유출 압력을 가중.\n2.  <b>국내 증시의 구조적 취약성 노출</b>: 단일종목 레버리지 증가는 시장 변동성을 증폭시키는 내재적 위험 요인. 외부 충격에 대한 국내 증시의 방어력이 약화될 수 있음을 시사.\n3.  <b>글로벌 완화 기조와 국내 시장의 디커플링</b>: 美 금리 인상론 제동에도 불구하고 국내 시장은 환율, 외국인 매도세 등 고유의 악재로 인해 긍정적 효과를 상쇄당하며 디커플링될 가능성.\n\n<b>단기 시나리오</b>:\n   <b>Base Case</b>: KRW 약세 지속 및 외국인 매도세로 인한 국내 증시 하방 압력 유지. 단일종목 레버리지 관련 변동성 확대 가능성. 당국의 추가적인 시장 안정화 조치 여부 주시.\n   <b>Worst Case</b>: 환율 1550원 돌파 후 급등, 외국인 매도세 가속화. 단일종목 레버리지 관련 마진콜 발생 및 투매로 인한 증시 급락. 금융시장 전반의 신뢰도 하락.",
+      "news": "🔗 <a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE4yTHVoWERvRFV5X2ZWRmc5MGpnRERxaGN2UGdlN1ljd2FydlpHZG9HT2Iwcjd6UkRPTXhIbFBNMjhzLWIydDNyTG8wTmZKOV9BRk9sb1pudFVsTURybWZiMjBsVWJ0M3QxUmtTNlNlUWM?oc=5\">美 금리 인상론 제동…&#39;연내 동결&#39; 고개</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tQVlmYmE2TU9Eb19OdVFkZ2JCUVppRUVWQUN5VUpfX1JBaGxOZkdacmZQVkxxdU1hdk9oVVNQZEg4aExYZE5GWFliV1A4Uzg?oc=5\">환율 1550원 코앞서 ‘뚝’…금요일마다 떠오르는 ‘당국 개입설’</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbVNlMWpVT3g0c0E4MENFNFRFTnBxQUdxSVkySno5TWZ1bUpOMzdoeTJHYVBRaFZIREV1N2hmdGo1QXd5TW5RSVp4ZFFIRDRHVFVHbEtDUmg1NzVSNkFQYnZPY3BrbEt4ZS1FcXhBQUJ0OXpfaGZpNHo0Wk9IMlZTTHplaWwyaFN40gGcAUFVX3lxTE9iSm1pMUJUOFZOMUFpbWU5R0Qza1pzYzZpY29xakVPbm9BTmM5eTA3X185OWlOT3o4S3RXUVBkMEhFbEdteUxzN0xtUU1HM2ZaMWE0dVdINll5cnVWWHBVbFNYel9UVWpkaERTYTU5ZXB4cGxPU01ySEVrYU5ZcXVXTTB1RS03bXFISVpRTHdNQS1nRHhRUnc0Y1o0eA?oc=5\">[주간증시전망] 반도체 랠리 재개 기대되지만… 외국인 매도세 지속은 부담</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TYWV4dGZ1N2Mwb0pZX1BPaW5IQmJ1MjE3WF9RanNBd1ZtZXdXR2ZVSUZCdC11ZzkzcEplSjJRbS1UbDdwYVVOT1ZNY1VmTF9QMUl1NlVUU0ZMaTjSAWBBVV95cUxQQ3F2dFFLS2pXZDAtdXhNWFRQUWFTZVlBZGtmTElzTlZ2d0R0TVV0TWIwRVpsWk1GWmZueXEyWWpjanlUYlpOSjZGZjM3clY3cHJVV29yTVJrUU9BWkJOb00?oc=5\">이를 어쩌나…증시 변동성 &#39;폭탄&#39; 된 단일종목 레버리지</a>\n\n",
+      "savedAt": "2026-06-28 07:37"
+    },
+    {
       "date": "2026-06-27",
       "session": "🌅 AM",
       "severity": "7.5",
@@ -970,7 +985,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-06-27 07:37:13",
+    "updatedAt": "2026-06-28 07:37:09",
     "source": "Apps Script",
     "version": 1
   }
