@@ -1,6 +1,25 @@
 {
   "reports": [
     {
+      "date": "2026-06-30",
+      "session": "🌅 AM",
+      "severity": "7.5",
+      "regime": "불안정으로 인한 국제유가 급등과 글로벌 인플레이션 재점화 우려가 가장 큰",
+      "categories": [
+        "미중 기술 패권 경쟁 심화",
+        "글로벌 인플레이션 재점화 우려",
+        "AI 반도체 시장 과열 논란",
+        "중동 정세 불안정 유가 급등",
+        "기준금리 전망",
+        "원달러 환율",
+        "외국인 수급",
+        "국내 증시"
+      ],
+      "full": "1. 🔴 <b>심각도(Severity)</b>: 7.5/10 점\n\n근거:\n글로벌적으로는 <b>중동 정세 불안정</b>으로 인한 <b>국제유가 급등</b>과 <b>글로벌 인플레이션 재점화 우려</b>가 가장 큰 위험 요인입니다. 이는 전 세계적인 소비 심리 위축과 기업 비용 증가로 이어질 수 있습니다. 또한, <b>미중 기술 패권 경쟁 심화</b>는 장기적인 불확실성을 가중시키며 공급망과 특정 산업에 지속적인 압박을 가하고 있습니다. <b>AI 반도체 시장 과열 논란</b>은 현재의 성장 동력에 대한 미래의 잠재적 리스크를 경고하며, 이는 국내 반도체 투자 심리에도 직접적인 영향을 미칩니다.\n\n국내적으로는 <b>원달러 환율이 1,543.00원</b>으로 여전히 높은 수준을 유지하며 수입 물가 상승 압력을 높이고 있습니다. 비록 \"숨고르기\" 양상이지만, <b>외국인 수급</b>의 불확실성이 커지면서 환율 변동성과 국내 증시의 변동성을 키울 수 있습니다. <b>국내 증시가 혼조 마감</b>하며 코스피 8400선 회복을 목전에 두고 있지만, 이는 외부 요인에 매우 취약한 상태임을 시사합니다. <b>한은 최종금리 전망이 3.25%</b>로 다소 완화될 가능성이 제기되지만, 이는 글로벌 인플레이션 압력과 상충될 경우 오히려 국내 경제의 취약성을 드러낼 수 있습니다.\n\n종합적으로 볼 때, <b>글로벌 인플레이션 압력과 지정학적 리스크가 고조</b>되고 있으며, 이는 국내 경제의 <b>환율 불안정성 및 외국인 수급 불확실성</b>과 맞물려 높은 심각도를 보입니다. 시스템 리스크 수준은 아니지만, 광범위한 분야에서 동시다발적인 위험 신호가 감지되고 있습니다.\n\n2. 🌐 <b>레짐 유형(Flow)</b>: RISK-OFF\n\n근거:\n현재 시장은 <b>중동 정세 불안정으로 인한 유가 급등과 글로벌 인플레이션 재점화 우려</b>라는 명확한 위험 요인에 직면해 있습니다. 이는 투자자들의 위험 회피 심리를 자극하며 안전자산 선호를 강화하는 전형적인 RISK-OFF 환경을 조성합니다. <b>미중 기술 패권 경쟁 심화</b>와 <b>AI 반도체 시장 과열 논란</b>은 장기적인 불확실성을 더하며, 특정 섹터에 대한 투자 심리를 위축시킵니다. 국내적으로도 <b>높은 원달러 환율</b>과 <b>외국인 수급 불확실성</b>은 국내 자산에 대한 방어적인 태도를 요구합니다. 비록 국내 증시가 혼조세를 보이며 특정 지수 회복을 시도하고 있지만, 이는 외부 위험 요인에 대한 취약성 속에서 나타나는 현상으로, 전반적인 시장의 흐름은 위험 자산 회피 및 방어 모드로 전환되고 있습니다.\n\n3. 🛡️ <b>전략 지침</b>: Defense(방어)\n\n핵심 요약: <b>유동성 확보 및 안전자산 비중 확대. 변동성 높은 자산에 대한 노출 최소화.</b>\n\n4. 👁️ <b>오늘의 통찰</b>:\n\n1.  <b>글로벌 인플레이션 압력과 국내 통화 정책의 괴리</b>: <b>중동 정세 불안정으로 인한 유가 급등과 글로벌 인플레이션 재점화 우려</b>가 커지는 가운데, <b>한은 최종금리 전망은 3.25%로 다소 완화될 가능성</b>이 제기됩니다. 이는 글로벌 긴축 기조와 국내 통화 정책 간의 괴리를 발생시킬 수 있으며, 단기적으로는 국내 증시에 긍정적일 수 있으나, 장기적으로는 원화 약세 심화 및 외국인 자금 이탈을 가속화할 수 있는 잠재적 위험 요인입니다.\n    단기 시나리오: 글로벌 인플레이션 압력이 지속될 경우, 한은의 완화적 스탠스는 유지되기 어려울 것이며, 결국 뒤늦은 긴축으로 시장에 추가 충격을 줄 수 있습니다.\n\n2.  <b>AI 반도체 시장의 '경고등'과 국내 증시의 시험대</b>: <b>BIS의 AI 투자 붐 장기 침체 경고</b>는 현재 국내 증시를 견인하는 핵심 동력인 반도체 섹터에 대한 근본적인 질문을 던집니다. <b>국내 반도체 투자심리도 시험대</b>에 올랐다는 점은, 현재의 기술주 랠리가 지속 가능성에 대한 의문을 제기하며, 조정 가능성을 높이는 기미로 포착됩니다.\n    단기 시나리오: AI 관련 기업들의 실적 발표나 추가적인 경고성 발언이 나올 경우, 국내 반도체 및 기술주 전반에 걸쳐 급격한 투자심리 위축과 조정이 발생할 수 있습니다.\n\n3.  <b>환율 안정화의 취약성</b>: <b>달러-원 환율이 1,543.00원에서 숨고르기</b>에 들어갔지만, 이는 일시적인 현상일 가능성이 높습니다. <b>관건은 미국 지표와 외국인 수급</b>이라는 점에서, 글로벌 위험 회피 심리가 재차 강화되거나 미국 경제 지표가 예상치를 하회할 경우, 원화 약세가 재개될 수 있는 매우 취약한 상황입니다.\n    단기 시나리오: 미국 고용 지표 등 주요 경제 지표 발표 결과에 따라 달러 강세가 재개되거나 외국인 자금 유출이 가속화될 경우, 원달러 환율은 다시 상승 압력을 받을 것입니다.",
+      "news": "🔗 <a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFAxUm83NGVwWkpYQzFsSjRwcFlQdk9XNExaQVVwdkxxc3F1b3FSZFA1Q2xnNTN1U2tmamc5SGk0aV9Xc3FEbUYtQU1HV2p5aHAxMEphUWZSY3cxYzI2d09NTkVGejFtcGltMGc?oc=5\">“미중 패권 경쟁, 미국이 판 흔들고 중국은 틈 파고든다”</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41M1E0VF8yeVFXdWV0QjlmTDNQRlhwRUhKTkJ2MENhWk5DSDVMR2tkWE1yQXR5ZGJjbG9BZWVLS0labkpUdmhSaE5VUW54WkpJYzdFeTJfcWpZYjFCU2o0VmEtLWdpazA?oc=5\">중동 긴장 고조에 유로 수익률 상승, 유가·인플레이션 우려 증폭</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBSSTcxTGFBZnExdmVoNVN1NklDejZreXFSRUdOXzlqdk9tMFM5Qmc1TEFPRmw4b3U2RFFLYzZOZXdLVWNndF96dVVGejZkV0x1NTB6OGk2aWNoaHRzWUZEeGtoTV9KRTA0NHlJZHlsbw?oc=5\">BIS “AI 투자 붐, 장기 침체로 끝날 위험”…국내 반도체 투자심리도 시험대</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jSUh0YkpFZTNocHFjNlFCeVBCbEhBb1R6SW5iOEV1RzBKWG1nYnNLclBidl96SHp0VHpjcGVkeFdlWkpDWjl6VFNtMXdVaVNPWUoxTA?oc=5\">국제유가, 美·이란 정세 주목하며 상승…WTI 2.2%↑ [상보]</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE90NHFrMWthSmZqZG1XTXVLWHhCWG5EbEtGcHpkOXJ6UXl2NUlMQ18wdGJGTmdIc2tpN3VtMzRha09GUXNibkpIVDY3bjRmT3NrUlV1c3dXZXFQdXptX2NuNElkVEtNYVd0STg3b2JmOTM?oc=5\">&quot;한은 최종금리 3.5% 아닌 3.25%에 그칠 가능성…달러 조달여건도 양호&quot;</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Bdm1qVFU0Vl9CaXJod29PXzc0X0tUNGJaWEhJZmVsWkpmdUg5elhQb1JUUUJLN0NObnV1NjBUUDVQU2FmOEx3UXg5SW5XX3I0UF96bjd4aFQzUGM2bWlTMtIBYEFVX3lxTE5Bdm1qVFU0Vl9CaXJod29PXzc0X0tUNGJaWEhJZmVsWkpmdUg5elhQb1JUUUJLN0NObnV1NjBUUDVQU2FmOEx3UXg5SW5XX3I0UF96bjd4aFQzUGM2bWlTMg?oc=5\">달러-원, 야간 거래서 숨고르기 …1,543.00원 마감</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WWTVqRnJjdVdYUUQxQ2V0SElEcXdGUnN3ZDJQQk0xR3lsdUQxVEw2cXpBZTJwZnoxa25pUFVXeUQtcWx4UzZDVDRsa3Z1dy1ERmUtQ0FXcWdUcm9NR0tzTHZ3?oc=5\">시험대 오른 달러와 원, 관건은 미국 지표와 외국인 수급</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HeG4yVTNEbUlaWWdmNHdrSnh4Uzg5bnlWWUlpZXdYblBMTmN5eDlNYkJiTE5DRWJZZXM4dHkxMjhud0N1aTY2TjA1cm16b1k?oc=5\">[증시 인사이트] 국내증시 혼조 마감…코스피 8400선 회복 목전</a>\n\n",
+      "savedAt": "2026-06-30 07:37"
+    },
+    {
       "date": "2026-06-29",
       "session": "🌅 AM",
       "severity": "7.5",
@@ -1004,7 +1023,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-06-29 07:37:09",
+    "updatedAt": "2026-06-30 07:37:13",
     "source": "Apps Script",
     "version": 1
   }
