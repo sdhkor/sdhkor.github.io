@@ -1,6 +1,25 @@
 {
   "reports": [
     {
+      "date": "2026-07-10",
+      "session": "🌅 AM",
+      "severity": "7.5",
+      "regime": "위기 심화로 글로벌 경기 둔화 우려가 커지는 가운데, 국내에서는 원·달러",
+      "categories": [
+        "미국 금리 인하 지연",
+        "중국 부동산 위기 심화",
+        "AI 반도체 경쟁 심화",
+        "기후 변화 관련 재난 확대",
+        "기준금리 전망",
+        "원달러 환율",
+        "외국인 수급",
+        "국내 증시"
+      ],
+      "full": "1. 🔴 <b>심각도(Severity)</b>: 7.5/10 점\n\n근거: <b>미국 금리 인하 지연과 중국 부동산 위기 심화로 글로벌 경기 둔화 우려가 커지는 가운데, 국내에서는 원·달러 환율이 1500원을 돌파하며 심리적 마지노선을 넘어섰고, 한국은행의 7월 만장일치 금리 인상 전망이 확정적. 이는 국내외 복합적인 악재가 동시다발적으로 발생하며 금융 시장 전반에 상당한 압박을 가하는 상황. AI 반도체 강세는 특정 섹터의 선방일 뿐, 전반적인 시장 불안감을 상쇄하기에는 역부족.</b>\n\n2. 🌐 <b>레짐 유형(Flow)</b>: <b>EVENT-SHOCK</b>\n\n근거: <b>원·달러 환율 1500원 돌파는 단순한 수치 변화를 넘어선 단기적 충격이며, 국내 기준금리 인상 확정은 통화 정책의 급격한 변화를 의미. 미국 연준의 매파적 스탠스와 중국발 리스크가 맞물려 시스템 전반에 대한 불확실성이 급증하는 돌발적 상황으로 판단.</b>\n\n3. 🛡️ <b>전략 지침</b>: <b>Defense</b>\n\n핵심 요약: <b>자산 방어 및 현금 비중 확대. 변동성 높은 자산에 대한 노출 최소화. 환율 변동성 대비 헤지 전략 고려.</b>\n\n4. 👁️ <b>오늘의 통찰</b>:\n\n포착된 기미:\n1.  <b>원화 약세 심화 및 국내 금리 인상 압력 가중</b>\n2.  <b>글로벌 경기 둔화 속 특정 섹터(AI 반도체)의 차별적 강세와 시장 양극화 심화</b>\n3.  <b>국내 증시의 대형 기술주 편중 심화 및 시장 전반의 유동성 위축 우려</b>\n\n단기 시나리오: <b>원화 약세와 국내 금리 인상 기조가 지속되며 국내 금융 시장의 변동성이 확대될 것. 외국인 투자자들의 관망세 또는 순매도 전환 가능성이 높으며, 국내 증시는 대형 기술주 중심의 제한적인 움직임을 보이며 전반적인 투자 심리는 위축될 전망.</b>",
+      "news": "🔗 <a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oTEQ0T09oYnNaVnkzcm1mdjh3dkdWbzJsczU3R1RPVTJDb3Q1VFFRbUx1OGVvSmVLcTFERGYwMExIMkZ0UTNaLVU2ZlpPUjJTOFpuZjBpVlBDM2FCUkV4aw?oc=5\">인하 기대 약화시킨 美 연준…한은 금리 셈법 더 꼬인다</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0za1JkdDYxU2NaQXpZTkVZYlUyODN6Mjd1ak81UjdSMTdXNi1KdDZLNUxaQUlvVllqejJfVnZZMUxTaFZXdmYzQVZqbjZEbEd6NVFwSzJB?oc=5\">중국서 발목 잡힌 벤츠, 2분기 판매 8% 감소</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQZUVEU20xOTRZNW9KbVNYNHZ6Q3A1Mmt0OXVzUDRoZHN5WFdCTVY4SGV5WEhuajc5MEFVclVwbkdYdmU1TUNWaF9tSUtIdk1VVjR4NkVxTU9iM3dvWXJQTg?oc=5\">AI 반도체가 중동 리스크 눌렀다…나스닥 1.3%↑[뉴욕마감]</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PWkxpbTQ0d1pHWnQyRU8xakkwMW04WVRIaWR2TUQ0SldjQkxGMFBtTFFmWWV5a0VYRWRCbWhBZWtJdFN4Q1R2Yl9yWG5QV2ZjeDVMbUhFdkREdTA?oc=5\">[환경소식] “2100년 남한 기온 5.4℃ 상승”… 지형 정밀 반영한 기후 시나리오 공개</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCdW1Da3VJWnVsenRTd0pyR0VLMXZGTk9tRnE2bzZiQ1QyQ0QxZ0dCT09GOHNkTHl6Z3o3WGY3TzNKQVZvV3MwMnRFOGg3QXQ2emgzNXYxLVBNQdIBWEFVX3lxTE5KaW5ZR1dLaWx0U1kweGVWTTRVeG5KbmZyelBDUjB6UnZzS2ZHMHlueHVENXR0dXBKZ21WSmhoZ2w4dTBBbjhXMTF4TTVOVHloTzhqOHNUTGk?oc=5\">[금통위 설문조사] 7월 만장일치 금리인상 전망…다음 인상은 10월</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNLU5pUWNXMERTVzhGbmFjRUF1Z1k5T0k3ZEV2endKd1NjSUJPQlFNNU9xWlJIbDFmYW5YOUJST3VWa285TWJMdjdEUjVlTkk1RENmdWVFenkza09EVTZOQlQxWk9rcko1enNEUC1JMEY3OVBSbEhTZEF4MW0zdjZjV3BFYm81UdIBmgFBVV95cUxNNnJoNXo4a0JjdDJUc05adWNzeHBDbVlTNGRJb0ZqUE9vbm8yTnI3TnNORzFLXzhNZEs1QXptM1BQQWtyR0xjdjlkQXRWLW9yTHFOOGpnOWF5UHdrQUNCZ0VJSzdEWlZnU2pOZ1ZldllwMnlWa0tTdDB2a2FHZnFTdHRuVFBWT1JhSmpERm11bEtILTV2UHU1X1Rn?oc=5\">원·달러 환율, 하루 만에 1500원 돌파… 7.6원 오른 1506.1원</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5lOHdlNjNUVjl2c0Eza29IUHMzWjdNM1hKRF9maElmQ1ZDcXZmQUhtNEh2VVhhS3cwTGpnWE5zYm5YcEVLT1ROdUtET00zZFJ0ckREQTdNSWhqeXNIc3J1NS1MZ2hQZWhSZk5mYmhZS3XSAXRBVV95cUxQU2JhV2RpQUhzUm1sUGlRS3E0UlJJOWZMellJZjZ0bkIzdDdGTHRGUG1iWXV6OUhWOXBaeW03NGl4ZXdTOExnRXF4eDRiUnhCQ1R6dFVQdWhfRWhHaXg2a2cwQk91QlNOOVRCeE9XT2ZGeTg4WA?oc=5\">&quot;국민연금 기계적 매도 압력 완화…외국인 수급 반전은&quot;</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE02OVhYYkh4R3FUbkRyQUlhYjB5all5U2J3aXc5MXdWUzRGV0NKUjdyZjVpUXFkMWJlWVZ5Q3R3MDZkZUMzTU92UzVxLTd6WGZuaTlDWlhWbjNMZ3fSAWBBVV95cUxPTk0tZGk3LV9ZVWtzb2JkdGlOaGxfWXdBQ0NEcDNhMzZkUnF4Sl9OLWNCUExmd3ZkMGtUS3RPS2d2ZjR2Xzc3M2xBOGFtalBkaUNMSDJpRTNlOF9TbDU3TE4?oc=5\">국내 증시서 &#39;삼전·닉스&#39; 거래대금 비중 한달반 새 30→51%(종합)</a>\n\n",
+      "savedAt": "2026-07-10 07:37"
+    },
+    {
       "date": "2026-07-09",
       "session": "🌅 AM",
       "severity": "6.8",
@@ -1175,7 +1194,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-09 07:37:16",
+    "updatedAt": "2026-07-10 07:37:20",
     "source": "Apps Script",
     "version": 1
   }
