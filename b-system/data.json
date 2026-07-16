@@ -1,6 +1,25 @@
 {
   "reports": [
     {
+      "date": "2026-07-17",
+      "session": "🌅 AM",
+      "severity": "7.5",
+      "regime": "EVENT-SHOCK",
+      "categories": [
+        "미중 기술 패권 경쟁",
+        "글로벌 인플레이션 재점화",
+        "AI 반도체 시장 경쟁",
+        "중동 지정학적 리스크",
+        "기준금리 전망",
+        "원달러 환율",
+        "외국인 수급",
+        "국내 증시"
+      ],
+      "full": "[B-System 연기적 분석]\n\n1. 🔴 <b>심각도(Severity)</b>: 7.5/10\n근거: 글로벌 인플레이션 재점화와 한국은행의 3년 6개월 만의 기준금리 인상은 통화정책의 긴축 기조를 강화하며 경제 전반에 부담을 가중시키고 있습니다. 여기에 미중 기술 패권 경쟁 심화(바이오 기술 수출 규제)와 중동 지정학적 리스크가 고금리와 겹쳐 기업 신용등급 차별화를 본격화하고 있다는 점은 시스템 리스크로의 전이 가능성을 내포합니다. 특히 외국인과 연기금이 인버스 ETF를 대규모 순매수했다는 점은 기관 투자자들이 시장 하방 위험에 적극적으로 대비하고 있음을 보여주는 강력한 신호입니다. 국내 증시 휴장으로 당장 충격이 가시화되지는 않겠지만, 잠재된 위험 요인들이 복합적으로 작용하며 심각도가 높다고 판단됩니다.\n\n2. 🌐 <b>레짐 유형(Flow)</b>: EVENT-SHOCK\n근거: 글로벌 인플레이션 재점화와 한국은행의 예상치 못한(3년 6개월 만의) 금리 인상은 시장에 단기적인 충격과 급변을 야기할 수 있는 돌발적인 정책 변화입니다. 여기에 고금리와 중동 리스크가 겹쳐 기업 신용등급 차별화가 본격화되는 것은 기업 섹터 전반에 걸쳐 예상치 못한 충격을 줄 수 있으며, 기관 투자자들의 인버스 ETF 매수는 이러한 단기 급변 상황에 대한 방어적 대응으로 해석됩니다. 성장 모멘텀 재확인 언급이 있지만, 이는 인플레이션 압력 속의 성장으로 해석되어 긍정적이기보다는 복합적인 불확실성을 가중시키는 요인입니다.\n\n3. 🛡️ <b>전략 지침</b>: Defense(방어)\n핵심 요약: <b>방어적 포지션 강화 및 현금 비중 확대. 변동성 헤지 전략 고려.</b>\n\n4. 👁️ <b>오늘의 통찰</b>:\n   <b>포착된 기미 1: 인플레이션 재점화와 통화정책의 비동조화</b>\n    글로벌 인플레이션 재점화 속 한국은행의 금리 인상(2.50%→2.75%)은 긴축 기조를 강화하는 반면, 미국 금리 인상 기대는 꺾이며 원달러 환율이 하락(원화 강세)했습니다. 이는 글로벌 통화정책의 비동조화가 심화되며 환율 변동성을 키우고 국내 경제에 복합적인 영향을 미칠 기미입니다.\n   <b>포착된 기미 2: 지정학적 리스크와 고금리의 복합 충격</b>\n    미중 기술 패권 경쟁 심화(바이오 기술 규제)와 중동 지정학적 리스크가 고금리와 결합하여 기업 신용등급 차별화를 본격화하고 있습니다. 이는 기업들의 자금 조달 환경 악화와 부실 기업 증가로 이어질 수 있는 시스템 리스크의 초기 기미로 해석됩니다.\n   <b>포착된 기미 3: 기관 투자자의 선제적 방어 전환</b>\n    외국인과 연기금이 SK이노베이션과 같은 개별 종목을 순매수하는 동시에 인버스 ETF를 대규모로 집중 매수했다는 점은, 시장 전반의 하방 위험에 대한 기관 투자자들의 선제적이고 강력한 방어 전환 기미를 포착하게 합니다.\n   <b>단기 시나리오:</b> 국내 증시 휴장으로 당일 시장 반응은 없지만, 휴장 기간 동안 축적된 인플레이션, 금리 인상, 지정학적 리스크, 기업 신용 위험 등의 복합적인 악재는 개장 시 시장에 상당한 하방 압력과 변동성을 가져올 것입니다. 특히 기업 신용등급 차별화는 특정 섹터 및 기업에 대한 투자 심리를 급격히 위축시킬 수 있으며, 원화 강세는 수출 기업에 부담으로 작용할 수 있습니다. 기관 투자자들의 방어적 포지션은 시장의 추가 하락 가능성을 시사합니다.",
+      "news": "🔗 <a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hU0FPZGlGTTRMdFhVUzRBaEN6SkJCR1ZVZkZYS0JUZGhoWVA2ZHItdUh4MllKYmYwSkFNZGdkVzlvUWI4NUtEZ3o2RzB1UWVlczlBTmxnWHV2Qk5RaDBoVlBJTXd4anc?oc=5\">[이슈 추적] 美, 중국 바이오 기술수출에 ‘안보 잣대’…라이선스 계약까지 심사</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3Mi1zWFBLS3FMY2wteE1hUHR5V2pnOWJBYVNYT1FlRHhYQkRfNjhYZndQTUFpcFFfa3piT29IcG0tNVJRUHBjNHZFSUg5Z3VRN3ZHNzR5UUtvZmxi?oc=5\">[모닝 리포트] &quot;연준 이슈 공백 속 &#39;성장 모멘텀&#39; 재확인 구간 진입&quot;</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE80U2Vzci1DUGxtMFBmd1lzT0tnWS1Ebld6MzNXdXROWnEwY2JreUJCdDdSTm9fX2FUVG1fTHdMeEdYQ1YyWk85VlFJcTMyeWJQLUZncV8xeS14Rk40U3JFcNIBYEFVX3lxTE80U2Vzci1DUGxtMFBmd1lzT0tnWS1Ebld6MzNXdXROWnEwY2JreUJCdDdSTm9fX2FUVG1fTHdMeEdYQ1YyWk85VlFJcTMyeWJQLUZncV8xeS14Rk40U3JFcA?oc=5\">퓨리오사AI 백준호 &quot;AI 반도체, 전력 적게 쓰는 게 기술 혁신&quot;(종합)</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBxS3BabEVNUlhMb3ZSdHBRQVFlNkdBY19PWDZqWTNEQXF4WXBwQ1NOY2NOaXliSXFxSWpKRlZIdmpYUkRrcGJsdmpFYVVFcGZNLVNCQy04UlRlM0x3ZUpYaXM1Y2R1TmhwRzNONjJlZzRXMUXSAXdBVV95cUxOY2hGX0tWUEkzMENqZDlncEE1cEpTazVHdm1RT0tUU2xzZDVZbXVNbFRlV21laS03M1BDZVNTS2Q2akpndzc4eGQ3Q01aZGdMUUptV3JCWmhUTHI1SHpoeFVXZzJzcjc4WEdENUdjdzhETENWRlhsaw?oc=5\">고금리·중동 리스크 겹쳤다…기업 신용등급 차별화 본격화</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBlRGtybWtyRExpcHFIN2pYWTRBaC1OWDhMUjQtaTZ4TERiSlRsdnlOcWJldGFYaVdzWEUtNHNhNFVVaVNHeVYySDJORTZnek5IOGVWeWFhaGRMVTNSb3ZQR0N5aktEZ2VUNktiVzhMSHZPQQ?oc=5\">한은, 기준금리 연 2.50%→2.75%…3년6개월 만에 인상</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4VUhRbjNKNXRESDdoVTZLNC00Wlc1Rmw3S1JhMWNlZjNKQUxFVVc3QTVsR3BJX19yMHRjYXZNTG01SU5ZODdCNkcyS0ZwdjBIblZibzBMX0ZOSkVjMU1Hb9IBYEFVX3lxTFA4VUhRbjNKNXRESDdoVTZLNC00Wlc1Rmw3S1JhMWNlZjNKQUxFVVc3QTVsR3BJX19yMHRjYXZNTG01SU5ZODdCNkcyS0ZwdjBIblZibzBMX0ZOSkVjMU1Hbw?oc=5\">美금리 인상 기대 꺾이고 한은은 올리고…환율 두 달 만에 최저</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPT1hBaVczWG9Rbk56bE1rZm5PcTc1ZTBGX1RvS2ZlQ2N1aGJHaWZVWXV5S0loeG4xdXZlNHJzMjRCT2dzY3RYLTl1VHZuS3RLSExEUnh6UmF2NkxuVWw2NTMtbVpmWFpYV00yZnFNQ0puY2daa3pRSnJBcjU3Z1NkZi00V0ZHNUZYTEE?oc=5\">[수급분석] 연기금·외국인 순매수 TOP10, SK이노베이션 469억·인버스 ETF 977억 집중 매수 (2026.07.16)</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFB4ejFMb3lIUWd5amN5eXlnRzdNakp3QThLRHZNaENmZnFXZERjZXdwVnh4Ulc2d2FMU0RVeHZrZGJDb0M4TjRxdm95UHdzOXRXaTgyUEdWeGxIY0pMMzNVSjZkVU1mQTZNbERkUHFtZ0dIMm90?oc=5\">[0717주요일정] 국내 증시, 제헌절로 휴장 등</a>\n\n",
+      "savedAt": "2026-07-17 07:37"
+    },
+    {
       "date": "2026-07-16",
       "session": "🌅 AM",
       "severity": "5.5",
@@ -1308,7 +1327,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-16 07:37:15",
+    "updatedAt": "2026-07-17 07:37:17",
     "source": "Apps Script",
     "version": 1
   }
