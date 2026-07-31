@@ -1,6 +1,25 @@
 {
   "reports": [
     {
+      "date": "2026-08-01",
+      "session": "🌅 AM",
+      "severity": "7.0",
+      "regime": "전환의 기미를 보였으나, 6월 50조원 순매도에 비하면 미미한 수준으로 ",
+      "categories": [
+        "미중 기술 패권 경쟁 심화",
+        "글로벌 인플레이션 재점화 우려",
+        "AI 반도체 시장 과열 논란",
+        "중동 정세 불안 고조",
+        "기준금리 전망",
+        "원달러 환율",
+        "외국인 수급",
+        "국내 증시"
+      ],
+      "full": "1. 🔴 <b>심각도(Severity)</b>: 7.0/10\n\n근거:\n글로벌적으로는 <b>이란 폭격 예고</b>라는 직접적인 지정학적 리스크가 고조되며 <b>원달러 환율이 1,430원 중반대로 급등</b>하는 등 즉각적인 시장 불안을 야기하고 있습니다. 이는 <b>글로벌 인플레이션 재점화 우려</b>와 맞물려 안전자산 선호 심리를 강화하고 있습니다. <b>미중 기술 패권 경쟁 심화</b>는 장기적인 구조적 리스크로 작용하며 불확실성을 더합니다.\n국내적으로는 이러한 글로벌 악재에 더해 <b>국내 증시 하락세가 지속</b>되고 <b>코스피 목표주가 하향이 잇따르는 등</b> 전반적인 투자 심리가 위축되어 있습니다. 비록 <b>외국인이 7조원 순매수</b>하며 추세 전환의 기미를 보였으나, 6월 50조원 순매도에 비하면 미미한 수준으로 아직 추세 전환을 확신하기 어렵습니다. <b>AI 반도체 시장의 과열 논란</b> 속에서도 빅테크의 AI 투자 지속은 긍정적이나, 이는 특정 섹터에 국한된 호재로 전반적인 시장 불안을 상쇄하기에는 역부족입니다.\n\n2. 🌐 <b>레짐 유형(Flow)</b>: EVENT-SHOCK\n\n근거:\n<b>이란 폭격 예고</b>는 시장에 <b>돌발적인 충격</b>을 주는 사건으로, <b>원달러 환율의 급변</b>과 같은 <b>단기 급변</b> 현상을 초래하고 있습니다. 이는 단순한 위험 회피 심리를 넘어선 구체적인 지정학적 이벤트에 대한 반응으로, 시장의 전반적인 흐름을 일시적으로 왜곡하거나 급격히 전환시킬 수 있는 요인입니다.\n\n3. 🛡️ <b>전략 지침</b>:\nDefense(방어): <b>현금 비중 확대 및 안전자산 선호</b>. 지정학적 리스크에 민감한 자산 비중 축소.\nExposure(공격): <b>극도로 제한적</b>. 지정학적 리스크와 무관하거나 오히려 수혜를 볼 수 있는 방어적 섹터에 대한 단기적, 선별적 접근.\n\n4. 👁️ <b>오늘의 통찰</b>:\n\n   <b>지정학적 리스크의 이중성</b>: <b>이란 폭격 예고</b>라는 직접적인 지정학적 충격이 환율을 급등시키며 시장 불안을 가중시키고 있으나, 동시에 <b>8월 국제선 유류할증료 5단계 하락</b> 소식은 과거 유가 하락분을 반영하며 중동 정세 불안이 아직 유가에 전면적으로 반영되지 않았음을 시사합니다. 이는 시장이 지정학적 리스크를 완전히 가격에 반영하지 못했거나, 단기적 이벤트로 판단하려는 경향이 혼재되어 있음을 보여줍니다. 향후 중동 사태의 실제 전개 양상에 따라 유가 및 시장 변동성이 크게 확대될 수 있습니다.\n   <b>AI 섹터의 고립된 강세</b>: <b>빅테크의 AI 수익화 가속 및 투자 지속 확대</b>는 전반적인 시장 하락세와 지정학적 불안 속에서도 AI 관련 섹터의 견조한 펀더멘털을 보여줍니다. 이는 AI가 단순한 테마를 넘어선 구조적 성장 동력임을 재확인시켜주지만, 동시에 <b>AI 반도체 시장 과열 논란</b>처럼 특정 섹터로의 자금 쏠림 현상과 그에 따른 잠재적 버블 리스크도 내포하고 있습니다.\n   <b>외국인 수급의 불확실한 전환점</b>: 6월 <b>50조원 순매도</b> 이후 <b>오늘 7조원 순매수</b>는 국내 증시에 긍정적인 신호로 해석될 수 있으나, 이것이 추세적인 전환점인지 아니면 단기적인 저가 매수 또는 기술적 반등인지는 불확실합니다. 지정학적 리스크와 국내 증시의 목표주가 하향이 잇따르는 상황에서 외국인 매수세의 지속 여부가 향후 국내 증시의 단기 방향성을 결정하는 중요한 변수가 될 것입니다.",
+      "news": "🔗 <a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjNNazlqOHFBNTV1T01hNmpmRTM4c1UwejZmQTRMZFR6LWZBNGk0MXJhQjVLZTVnQ2VCSWFnWm1xeXVyN2t0Yjc0ZWlSQUZ2bUFFYXY0bVJvOGRYTG81SExMUHhxa04tMTZHVGswQ3JjNTdVcEtyZFVQNUNSNmp5bTVfOGRoN2Fs?oc=5\">딥시크, 내몽골에 1GW AI센터 추진</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hanZNYUt4M2N3aW9mRjliME5ZTW96dExPMjFldjNzNjVhbzZaanVLNlpOZXZ6c2tmdmFFV0R2MnB0ckFQYTdzSjRaOVRwb0FZSHV4RjJDLUg2RFhXZThGME5B?oc=5\">전국은 불안한데 캘리포니아 소비심리는 살아났다</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE02cXlsdVNrVXl6ajBxQ1NsTGFuUE1hX2VoNWVjRVN2dlM0Q2V0MlQ3aDBqeXJmZ0ZRTXdZckhWTS1qRmNNbjYtc0ZR?oc=5\">AI 회의론 걷어낸 빅테크 실적…&quot;수익화 가속·AI투자 지속확대&quot; &gt; 시애틀 뉴스/핫이슈</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBiMHdZTWJHUVFlRGVjU2dIRHdVdWVjOTdlWUxYdC1ld2NjUHlzNUNZUXdlT2pQZE56WW1JUlBpOEFWWl9jOGRmdXFTSk9YTmVueVBmdk9Vbll6bkNJTU5yMjY0N19SR0dyYm94aERIM2lqZw?oc=5\">[팜투어] 8월 국제선 유류할증료 5단계 하락… 유럽·발리 등 장거리 및 휴양지 노선 부담 경감</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rNTYtc2pmOGRleThlVEZ2cnoydXJlN1pQNWVOcVE0dkFOWl9LSWtJeWlDWEpKWkw0UmFES1lXck5FdWtocE50MkdXVmNGTlMwMXF4Q3NNWVFVU2JVamtRctIBYEFVX3lxTE9rNTYtc2pmOGRleThlVEZ2cnoydXJlN1pQNWVOcVE0dkFOWl9LSWtJeWlDWEpKWkw0UmFES1lXck5FdWtocE50MkdXVmNGTlMwMXF4Q3NNWVFVU2JVamtRcg?oc=5\">일본은행, 기준금리 1% 유지…경제 성장률 전망 0.6%로 상향(종합2보)</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9JNGxPUzNPODNUc3NyQmxjcHlfMDFBbDA0UXZZNVlaNVNobjcxOVV5VS1Qc19WRzBwM21QaFlVdE14aU96TUc1blB1THRNMWpjdGpRZTh0WXgwSXFwVFlIMGdSMEFUTi1salhZeUNsU0RaUQ?oc=5\">[외환] 주말 이란 폭격 예고 속 1,430원 중반대로 상승</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFB3a3FZamFMUFdmSVA3N1c0TUd0Z2otY3AtckZkRktUSV96WFVyZ2RwZ3FIbG9NakIwY3ZwVzcwQjJrQ3NyZW9jY2pVbi1qU0t0UnhHQkJaNzdFcEtVRWpXVi0zaUJqWnVhSE53LUhB0gFuQVVfeXFMUHdrcVlqYUxQV2ZJUDc3VzRNR3Rnai1jcC1yRmRGS1RJX3pYVXJnZHBncUhsb01qQjBjdnBXNzBCMmtDc3Jlb2NjalVuLWpTS3RSeEdCQlo3N0VwS1VFaldWLTNpQmpadWFITnctSEE?oc=5\">6월에 &#39;50조&#39; 던진 외인, 오늘은 7조 샀다…추세 바뀌나</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE95NW9MbndwZjB0akZLekRCemdiX0hRZmNPUGplalVYYXMwMFdxRFM3WUp4YzV2YXY1OEVKbDFTNzlVcXJhdFdFSks3VHBHREc3?oc=5\">국내증시 하락에…코스피 고점 이후 목표주가 하향 잇달아</a>\n\n",
+      "savedAt": "2026-08-01 07:37"
+    },
+    {
       "date": "2026-07-31",
       "session": "🌅 AM",
       "severity": "8.0",
@@ -1593,7 +1612,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-07-31 07:37:16",
+    "updatedAt": "2026-08-01 07:37:16",
     "source": "Apps Script",
     "version": 1
   }
