@@ -1,6 +1,25 @@
 {
   "reports": [
     {
+      "date": "2026-08-14",
+      "session": "🌅 AM",
+      "severity": "5.5",
+      "regime": "TRANSITION",
+      "categories": [
+        "미중 기술 패권 경쟁 심화",
+        "글로벌 인플레이션 재점화 우려",
+        "중동 정세 불안 유가 급등",
+        "미국 신행정부 보호무역 강화",
+        "기준금리 전망",
+        "원달러 환율",
+        "외국인 수급",
+        "국내 증시"
+      ],
+      "full": "[B-System 연기적 분석]\n\n1.  🔴 <b>심각도(Severity)</b>: 5.5/10 점\n\n    근거: 글로벌 증시에서는 美 물가 및 유가 둔화, 9월 금리 동결 기대감으로 S&P500이 사상 최고치를 기록하는 등 긍정적인 신호가 강하게 나타나고 있습니다. 이는 위험자산 선호 심리를 자극하는 요인입니다.\n    그러나 동시에 중동 정세 불안으로 국제 유가 급등 우려와 금값 상승이 관측되며 안전자산 선호 심리가 고개를 들고 있습니다. 특히 원달러 환율이 1,420원 초반대라는 높은 수준을 유지하는 것은 원화 약세 또는 달러 강세(안전자산 선호)가 지속되고 있음을 보여주며, 이는 국내 증시에 부담으로 작용할 수 있습니다. 국내 증시 시총은 회복되었으나, 개인 투자자의 실탄 소진으로 외국인 수급에 대한 의존도가 높아 취약한 구조를 보입니다.\n    종합적으로 글로벌 위험자산 선호와 안전자산 선호가 충돌하며 시장의 방향성이 불확실하고, 국내 증시는 외부 요인에 매우 민감한 상태로 판단되어 중간 이상의 심각도를 부여합니다.\n\n2.  🌐 <b>레짐 유형(Flow)</b>: TRANSITION\n\n    근거: 美 물가 둔화와 금리 동결 기대감으로 인한 S&P500 사상 최고치 경신은 RISK-ON 흐름을 지지합니다. 하지만 동시에 중동 정세 불안으로 인한 유가 급등 우려, 국제 금값 상승, 그리고 원달러 환율의 고공행진은 안전자산 선호 심리를 자극하며 RISK-OFF 요인으로 작용합니다. 이처럼 상반된 신호들이 혼재되어 시장 참여자들의 판단을 어렵게 하고 있으며, 어느 한쪽으로 명확히 기울지 않고 방향 전환을 모색하는 불확실성이 높은 시기이므로 TRANSITION으로 판정합니다.\n\n3.  🛡️ <b>전략 지침</b>:\n    Exposure(공격): <b>선별적 성장주 및 글로벌 우량 자산</b> (Fed 완화 기대감 및 S&P500 강세 활용).\n    Defense(방어): <b>유동성 확보 및 안전자산 비중 유지</b> (중동 불안, 환율 변동성 대비).\n\n4.  👁️ <b>오늘의 통찰</b>:\n    1.  <b>글로벌 증시의 이중성</b>: 美 물가 둔화와 S&P500 사상 최고치라는 긍정적 신호에도 불구하고, 중동 정세 불안과 국제 금값 상승은 여전히 잠재된 위험을 시사합니다. 단기적으로는 Fed의 완화적 기조 기대감에 위험자산 선호가 이어질 수 있으나, 지정학적 리스크가 부각될 경우 언제든 안전자산으로의 회귀가 가속화될 수 있습니다.\n    2.  <b>원화 약세의 지속 가능성</b>: 美 금리 동결 기대에도 불구하고 원달러 환율이 1,420원 초반대에서 거래되는 것은 원화 자체의 약세 요인(국내 수급 불안정, 외국인 의존도 심화) 또는 달러의 안전자산 선호가 복합적으로 작용하고 있음을 시사합니다. 이는 국내 증시의 외국인 수급에 부정적 영향을 미치며, 국내 증시의 추가 상승을 제한하는 요인으로 작용할 수 있습니다.\n    3.  <b>국내 증시의 취약한 회복세</b>: 국내 증시 시총 회복에도 불구하고 개인 투자자의 실탄 소진과 외국인 수급에 대한 높은 의존도는 국내 증시의 자생적 상승 동력이 약함을 보여줍니다. 글로벌 위험 회피 심리 강화 시 외국인 자금 이탈로 인한 급격한 조정 가능성이 상존합니다.",
+      "news": "🔗 <a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUpCN2xJUDBpdDQ0TWRad2JlWFpGWkVqYW5SZHJXUk1TRnFwdTlrWkFNa0czeVY4RExIeTRTUFR5ZDZqOVhQZDk0Y09kblNiMzJlRE9KWmtONl9rVkVlU0ZaWk45bzQzSWlFb3gyQlVuYXF6UFJESGdwOXI5ZWhLUDhFei04WVlF?oc=5\">美 물가·유가 함께 꺾였다… S&amp;P500 사상 최고치</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBvdjB2eGZ3MjNXWmZvb3JlVVlBRjMtYm16Z21hVzM2Wm9NYlBsZ3ZUSnM0Y1VfRlpySk5ORXFUQk12UTd2UExJQWxpRV9Ldkl2REY3a0t3dkx3MFlTNi1RVi1EZXU2eWdyQS1kQQ?oc=5\">[금 시세] 국제 금값 상승 흐름… 중동 정세 불안이 안전자산 선호 자극</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE82bWhjeFZuZU4wLXk4QTZ1RnVXZ1E0MDBOaUNDQUtZU0VpSElsVnRDQlZoQU12UHlxN2d0cThfZ09hcElUMHRpbGRoNko2WnoxSUM4Xw?oc=5\">美 물가 둔화에 9월 금리 동결 무게…뉴욕증시 어디로?</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1kaWFMWldQUF9jR21Fa3hlVXhlYV9WdTYxX3FmaHVjUTVCUVhHRl9la0ZabVZXRl8zaFloVzhRTDVNNUZiSUp6dzJxd3BYWWF2QVdwYXREeENCUU0xend2ZnB4anNILWpsMlJ5enRHM0hyZw?oc=5\">달러-원, 뉴욕장서 1,420원 초반대 거래</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1bGxSTWJuZGNrd1hCTXRkRE9lQUdTLUxFYjkzRGQxUHg3Y2x2d1lPWm1ESVB5U01jVlFuZ3VTU2dGYXRqLUJXSmpYNmgwY3BPRUhrY0RlYXVkMU5PTHFqc2NiX0JIMTBp0gFsQVVfeXFMUDAxaFBacFNxOFJZM05jNC16ZG9vMmtwNHdVdUVRTXJidDdiWnJQYlE5ODNQMmdlcWQ5cmpfQzYtbTd0SS1GVFdXc2N3V21PMmpZR2gzRmFiZ05Ubnh1WkRIbGY1RVBiblJYU0Ji?oc=5\">개미 ‘실탄’ 바닥…코스피 향방, 외국인 수급에 달렸다</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KcjZMYmt0YkZvblNlZ3lYamhuZnFldFFyNFdrUVJRbVI2aEd5S3Q1OU0zZzRJcmYzT3JtQm9qa2VGQjZaOHBkaGRfa014eFpu?oc=5\">‘국장 탈출’ 성급했나…국내 증시 시총 6000조원 회복</a>\n\n",
+      "savedAt": "2026-08-14 07:37"
+    },
+    {
       "date": "2026-08-13",
       "session": "🌅 AM",
       "severity": "5.5",
@@ -1840,7 +1859,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-08-13 07:37:21",
+    "updatedAt": "2026-08-14 07:37:18",
     "source": "Apps Script",
     "version": 1
   }
