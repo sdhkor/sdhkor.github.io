@@ -1,6 +1,25 @@
 {
   "reports": [
     {
+      "date": "2026-08-16",
+      "session": "🌅 AM",
+      "severity": "6.5",
+      "regime": "불안정성을 야기하며 안전자산(금, 방산 ETF) 선호를 강화하고 있습니다",
+      "categories": [
+        "트럼프 재집권 관세 충격",
+        "글로벌 고금리 장기화",
+        "미중 기술 패권 경쟁",
+        "중동 지정학적 리스크 고조",
+        "기준금리 전망",
+        "원달러 환율",
+        "외국인 수급",
+        "국내 증시"
+      ],
+      "full": "1. 🔴 <b>심각도(Severity)</b>: 6.5/10\n\n<b>근거</b>: 글로벌 고금리 장기화와 중동·유럽 지정학적 리스크 고조는 시스템적인 불안정성을 야기하며 안전자산(금, 방산 ETF) 선호를 강화하고 있습니다. 미중 기술 패권 경쟁은 장기적인 불확실성을 더합니다. 국내 증시에서는 코스피의 바닥 다지기 시도와 온기 확산 기대감이 있지만, 개인 투자자들의 강한 불신(하락 베팅)이 공존하며 반등의 지속 가능성에 대한 의문을 제기합니다. 이는 글로벌 리스크 오프 기조가 국내 시장에도 깊이 영향을 미치고 있음을 보여주며, 심각도가 높은 'RISK-OFF' 국면에 해당합니다. 다만, 전면적인 시스템 위기나 돌발적인 급변 상황보다는 기존 리스크의 고착화 및 심화 양상으로 판단됩니다.\n\n2. 🌐 <b>레짐 유형(Flow)</b>: RISK-OFF\n\n<b>근거</b>: 글로벌 고금리 장기화, 중동 지정학적 리스크 고조, 미중 기술 패권 경쟁 등 복합적인 요인들이 시장의 불확실성을 증폭시키고 있습니다. 이에 따라 금과 K-방산 ETF 등 안전자산 및 특정 수혜 섹터로 자금이 유입되며 수익률이 돋보이는 현상이 나타나고 있습니다. 국내 증시에서는 코스피의 반등 시도에도 불구하고 개인 투자자들이 하락에 베팅하는 등 위험자산 회피 심리가 뚜렷하게 관찰됩니다. 이는 전반적으로 위험자산에 대한 선호가 낮아지고 방어적인 모드로 전환되는 'RISK-OFF' 국면을 명확히 보여줍니다.\n\n3. 🛡️ <b>전략 지침</b>: <b>Defense</b>: 안전자산 비중 확대 (금, 방산), 국내 증시 보수적 접근 및 유동성 확보. <b>Exposure</b>: 글로벌 지정학적 리스크 수혜 섹터 (K-방산) 및 국내 증시 온기 확산 시 저평가 우량주 선별적 접근.\n\n4. 👁️ <b>오늘의 통찰</b>:\n1.  <b>국내 증시의 이중성</b>: 코스피의 바닥 다지기 시도와 온기 확산 기대감에도 불구하고, 개인 투자자들의 강한 불신(하락 베팅)이 공존. 이는 국내 증시 반등의 지속 가능성에 대한 의문을 제기하며, 글로벌 리스크 오프 심화 시 개인의 베팅이 현실화될 수 있음.\n2.  <b>글로벌 리스크의 고착화</b>: 고금리 장기화와 지정학적 리스크 고조는 일시적 현상이 아닌 고착화된 흐름으로, 금과 방산 ETF의 강세는 이러한 환경에서 안전자산 및 특정 수혜 섹터로의 자금 쏠림 현상을 반영.\n3.  <b>미중 AI 경쟁의 양면성</b>: 미중 AI 규칙 회담 추진은 기술 패권 경쟁 속에서도 일정 부분의 관리된 경쟁 가능성을 시사하나, 한국에게는 표준 경쟁 대비라는 새로운 숙제를 안겨주며 기회와 위협이 공존하는 영역으로 부상.",
+      "news": "🔗 <a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PeTZZSm9kX3NqOVFLRy1QWmJ5VnBjZmNzSjFxX1ZyUzVZSnZrSzFKVXRPOFZZSGdwLWZnaU5kYlZ2WHRzVTF6b01Kb3pXbDZUT0NFNWJhaVhER2RUMjNwVVFudnU?oc=5\">금시세(금값) 15일</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE82ZVhodk5LM1A5US1wSFA1NjMxQVNjSzlKb3ZkeHlob0FiRWhOM3owdVNlNVg5dG05cEJMTC1kcTR0bWc?oc=5\">미중, 9월 ‘AI 규칙 회담’ 추진…한국도 표준 경쟁 대비해야</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE8xc0s2UzNZMTFKNVJhQ29rdERoMTRUSW9TWFgzRGFPZ0ZCekMtemE5UjZ2aUZ0dzdUU3Bxendpc1Z0d0VqMFJLVm1yREtTMF9QdU1RZGV4aDRocXJva2dpSjk4U1ZsclMycVI40gFvQVVfeXFMUFBnakw0TndmZGxUNnpIRXdRVHFqYmFUR19LekVEUVJDUEFHcVNQUVFMUl96TEhDNTJVSi1WMlQyZmVDazRmZ1o2c3Rhc0pkV0hQMVF4cFUydURYSHE5TUtzTGR6QlRlVWtGd2V5NGM0?oc=5\">“다시 뜨는 K-방산”...중동·유럽 정세 불안에 ETF 수익률 ↑</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE12Mm9VQXc1ZWhfdHdJZktWcmV4WEZVeWczaTJ6dko3Z2RDUUdQb2Y4SU9mOFYwOUlOdHpoWGZuTS1nZlFDMDMtS2RQNXNuWmc?oc=5\">수익률 돋보이는 금 ETF... 향후 전망은?</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xQllUc21uRmUtM1dqUEkwZkpnclhSOTdvV2VfVTdSbTJRLUszcVlWMTd1RFpqd2FtSUNEY2ZDRnJBTVlfQXFWZmF6bFVQNEY5YXEyak1DOXJ6dVV2X2hOc9IBYEFVX3lxTE9xQllUc21uRmUtM1dqUEkwZkpnclhSOTdvV2VfVTdSbTJRLUszcVlWMTd1RFpqd2FtSUNEY2ZDRnJBTVlfQXFWZmF6bFVQNEY5YXEyak1DOXJ6dVV2X2hOcw?oc=5\">[마켓인사이트] 한주 내내 바닥다진 코스피, 상승흐름 이어가나</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRndVcWEzZ3ZIY1NXMGVuTUZTdl9hQTYwMDREYnZSTDczYjI4ZTBQVTFBU0lTVEh3cFNRczU3WkFVNy1oekZ6OG9GUmNPTFp6MDFXQnhyNURkNVZSV2syVHRuQTA3ZFJwNzA2bngxMHEyc2g0N1NVbFJDOUxhZFoyNzJMaDdVeDZv0gGcAUFVX3lxTE9yVkdRcWItV0xOZWpjcFBiaDV4ZVFGS0JhZ0o3eW83ZjBXUHJoYjYzWHFicUJBczhNck1LRzJTc3N3VVZGc3ZaZV92Q3ZEaWdVZDRrb0tUZnR4OEhOSTJrOHBFSnp3TGlKd2x3ZVFDQndsWjRTTTBqWW9yT2xyWWljb2hEb21ZZzlfc0thV19XT0I4V04zM3Jvc2Z5Yw?oc=5\">코스피 반등 못 믿는 개미…美 ETF로 피하더니 이번엔 ‘하락’ 베팅</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5wNHlNTVVReExGTnpxdU9JRTFSSzM2cVN0dUhDODI4YmZ6b0V0TkZYbkg2bU5tWlg4NFNPal82Wl9GbkVZNUx5VEEtZHZHSWR3eXJVSS02NklwajhNUTBPU0t5Y0lWdjZYQU9uTl9B0gFuQVVfeXFMTnA0eU1NVVF4TEZOenF1T0lFMVJLMzZxU3R1SEM4MjhiZnpvRXRORlhuSDZtTm1aWDg0U09qXzZaX0ZuRVk1THlUQS1kdkdJZHd5clVJLTY2SXBqOE1RME9TS3ljSVZ2NlhBT25OX0E?oc=5\">삼전닉스 몰빵 끝, 온기 퍼진다…멀미나던 한국 증시, &#39;우상향&#39; 시동?</a>\n\n",
+      "savedAt": "2026-08-16 07:37"
+    },
+    {
       "date": "2026-08-15",
       "session": "🌅 AM",
       "severity": "5.0",
@@ -1878,7 +1897,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-08-15 07:37:11",
+    "updatedAt": "2026-08-16 07:37:12",
     "source": "Apps Script",
     "version": 1
   }
