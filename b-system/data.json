@@ -1,6 +1,25 @@
 {
   "reports": [
     {
+      "date": "2026-08-23",
+      "session": "🌅 AM",
+      "severity": "7.5",
+      "regime": "EVENT-SHOCK",
+      "categories": [
+        "미국 보호무역주의 강화",
+        "글로벌 경제 성장 둔화",
+        "AI 반도체 경쟁 심화",
+        "중동 정세 불안 유가 급등",
+        "기준금리 전망",
+        "원달러 환율",
+        "외국인 수급",
+        "국내 증시"
+      ],
+      "full": "1. 🔴 <b>심각도(Severity)</b>: 7.5/10\n\n근거:\n글로벌 경제는 미국 보호무역주의 강화, 글로벌 성장 둔화, 중동 정세 불안으로 인한 고유가(정부 동결에도 불구하고), AI 반도체 핵심 인재 확보 경쟁 심화 등 복합적인 악재에 직면해 있습니다. 이는 단순한 경기 둔화를 넘어선 구조적 변화와 비용 상승 압력을 야기합니다. 국내적으로는 원달러 환율이 1300원대에 진입하며 추가 하락 전망이 우세하고, 기준금리 인상 가능성도 여전히 혼재되어 있어 통화 정책의 불확실성이 높습니다. 외국인 수급 관련 논란은 잠재적 자본 유출 우려를 더합니다. 국내 증시의 '불장'은 이러한 심각한 대외 악재 속에서 나타나는 역설적인 현상으로, 특정 섹터에 집중된 취약한 랠리일 가능성이 높아 전반적인 심각도를 낮추기 어렵습니다. 즉, 글로벌 악재가 국내 경제 전반에 미치는 파급력이 매우 크고, 국내 시장의 긍정적 신호는 제한적이거나 취약한 상황입니다.\n\n2. 🌐 <b>레짐 유형(Flow)</b>: EVENT-SHOCK\n\n근거:\n미국 보호무역주의 강화, 글로벌 경제 성장 둔화, 중동 정세 불안으로 인한 고유가 등은 개별적으로도 큰 충격이지만, 이들이 동시다발적으로 발생하며 상호 연쇄 작용을 일으키고 있습니다. 특히 고유가에 대한 정부의 가격 동결 조치는 이미 시장에 상당한 충격이 가해지고 있음을 시사하며, 원달러 환율의 급등은 국내 경제의 취약성을 드러내는 단기적 충격으로 작용하고 있습니다. AI 반도체 경쟁 심화는 특정 산업에 대한 구조적 변화와 비용 압박을 가속화하는 충격 요인입니다. 이러한 복합적인 충격들이 단기적으로 시장의 급변동성을 키우고 있으며, 국내 증시의 '불장'은 이러한 충격 속에서 나타나는 일시적이고 취약한 현상으로 판단됩니다.\n\n3. 🛡️ <b>전략 지침</b>: Defense(방어)\n\n핵심 요약:\n<b>Defense</b>: 자산 보전 최우선. 현금 및 안전자산 비중 확대. 환율 변동성 확대에 대비한 헤지 전략 고려. 고유가 및 인플레이션 압력에 취약한 섹터 비중 축소.\n<b>Exposure</b>: 필수 소비재, 유틸리티 등 경기 방어적 섹터에 대한 선별적 접근. AI 반도체 등 고성장 기술주는 핵심 경쟁력과 재무 건전성을 면밀히 분석하여 매우 제한적으로 접근.\n\n4. 👁️ <b>오늘의 통찰</b>:\n\n   <b>기미 1: '불장'의 역설적 취약성</b>\n    국내 증시가 '불장'을 보이고 있지만, 이는 글로벌 경기 둔화, 보호무역주의, 고유가, 원화 약세 등 심각한 대외 악재 속에서 나타나는 역설적인 현상입니다. 이는 특정 섹터(예: AI 관련주)에 집중된 취약한 랠리일 가능성이 높으며, 언제든 글로벌 악재의 파급력에 의해 급격한 조정으로 이어질 수 있는 위험 신호로 해석됩니다. 시장의 펀더멘털과 괴리된 상승은 단기적인 투기 심리에 기인할 수 있습니다.\n\n   <b>기미 2: 구조적 인플레이션 압력과 통화 정책 딜레마 심화</b>\n    중동 정세 불안으로 인한 고유가(정부의 가격 동결 조치에도 불구하고)와 원달러 환율의 지속적인 상승은 국내 물가에 구조적인 인플레이션 압력을 가중시키고 있습니다. 이는 경기 둔화 우려에도 불구하고 중앙은행이 추가 금리 인상에 대한 압박을 받게 하여, 스태그플레이션(경기 침체 속 물가 상승) 우려를 심화시키는 통화 정책 딜레마를 야기할 것입니다.\n\n   <b>기미 3: 글로벌 공급망 재편과 비용 증가의 가속화</b>\n    미국의 보호무역주의 강화와 AI 반도체 핵심 인재 확보를 위한 중국 기업들의 '주식 포상 전쟁'은 글로벌 공급망의 재편과 기업들의 생산 및 인건비 부담 증가를 가속화할 것입니다. 이는 효율성보다는 안정성을 중시하는 공급망 구축으로 이어져 장기적인 기업 수익성에 부정적인 영향을 미 미칠 수 있으며, 특히 한국과 같이 글로벌 공급망 의존도가 높은 국가에는 큰 도전이 될 것입니다.",
+      "news": "🔗 <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kcUpTTF9ueXUxdzhXdFhBX2dTUDJZTkQtSDdPTlZSVmxuZlB2cElKcnp5RUtGekxJbHcxQXFNS2xYWTRWejVYekFLZkhnY0JRV1NiSmt0R1Nqckk?oc=5\">[심층분석] 북미 무역 갈등의 구조적 딜레마, &#39;관세 보복&#39;의 연쇄와 한국 경제의 대응</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNWVdIbTlfVXJ2UVFsRU1IbzZoOEVGRm9jTFVnT09ISm1TNldTLWhxRTRCUnBMbUNvX0M1VkFGSGE1YXpod0pZOU1UcUJsdmdxZlJHM1MwSUk5ankxNUE?oc=5\">아시아 경제 둔화:</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yZjdjT21fUnUtdXlqdW9UQjBLcFFOcjNHallTOW9vSS1yT2FUNHZBUVRlZ0czREloVk40aTVIeHE0aDRHeS1PNGdIZHo0STJ1Q2c?oc=5\">“핵심인재 1인당 177억 원”…中 AI·반도체 기업, 주식 포상 전쟁</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE02bTIxbmZDSDFhMUFyRUdHWW11MlFEX1hfT0JRQndwUnBDVXA4YzM1U2VlVEYzeTFNTUFrWHAxME9TQmhfN21PYjFPVDR6SUZoVW9YM1dObjJqSmRVS0dnUmNVZmwxTnJKWlZOLV9scWVwZw?oc=5\">9차 석유 최고가격 동결…22일부터 4주간 적용</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BYXVhcGxjWEsxWTAwaFRtanpkUmpvbHVNVmJvY0wxQUhGQmZxcEM0NTVJWDBXakJwalI5SU5KYmtEX0N2akhaT1VWNkNXZGdQcHl4UUkyNW9MUmfSAWBBVV95cUxPa0hkMFZkTll3UVhoOElOQ1RQWk1MT3k3ajBONzBfbUZEdWFhejh5YThLcHduMlVLYlgxZm5MaGd0c3FsT0xjeF8tbVIwT3Z4SHZzQVJMdVBZcnpTWFB4TnA?oc=5\">기준금리 전망 &#39;혼조&#39;…&quot;7·8월 연속 인상&quot; vs &quot;숨 고르기&quot;</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfWHdfNEcyNXZoWG5YY1NVNVhOdWNNaWpZbjdIMGY3QkNQMjcyR0ZKWGFUNEt5alZTcWFFZlN6d3JmRUt3VDJMa2ZSdUlFeHM?oc=5\">“연말까지 더 내린다”…1300원대 진입한 환율, 전망도 줄하향</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZjAzR3hjemMwMGlNZFNORWxFNGdjX3ZNVElkY0tTMDY0aVVvcGRqTkU4dEpyOUNiaVZDSjlXSUJTM2taeUFkV21EbS1iWTJHLUpGaWpn?oc=5\">외국인 &#39;국민연금 추납 꼼수&#39; 수급 논란… 보건복지부 제도 개선 검토</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1MmZOUkZXdTVGVVVWaVRPNkU0ZjBiNzR2QmNvbklWMUQyYURHWFp3UmZTTWV4UDljRzNYd1NVUU8tSTBHQzdLVWxTOWU1QzllVmhJdEI3cVVGUjg?oc=5\">&#39;불장&#39;에 외국계 증권사 실적도 호조…순익증가율 국내증권사 압도</a>\n\n",
+      "savedAt": "2026-08-23 07:38"
+    },
+    {
       "date": "2026-08-22",
       "session": "🌅 AM",
       "severity": "6.8",
@@ -2011,7 +2030,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-08-22 07:37:16",
+    "updatedAt": "2026-08-23 07:38:03",
     "source": "Apps Script",
     "version": 1
   }
