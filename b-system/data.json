@@ -1,6 +1,25 @@
 {
   "reports": [
     {
+      "date": "2026-08-28",
+      "session": "🌅 AM",
+      "severity": "7.8",
+      "regime": "불안정을 심화시키는 요인입니다.",
+      "categories": [
+        "미중 기술 패권 경쟁 심화",
+        "미국 보호무역주의 강화",
+        "글로벌 고금리 장기화 우려",
+        "중동 지정학적 리스크 고조",
+        "기준금리 전망",
+        "원달러 환율",
+        "외국인 수급",
+        "국내 증시"
+      ],
+      "full": "1. 🔴 <b>심각도(Severity)</b>: 7.8/10 점\n\n<b>근거</b>:\n글로벌적으로는 미중 기술 패권 경쟁 심화, 미국 보호무역주의 강화, 중동 지정학적 리스크 고조 등 복합적인 지정학적 리스크가 상시화되고 있으며, 글로벌 고금리 장기화 우려와 함께 기준금리 추가 인상 가능성(최고 연 3.5% 전망)까지 제기되며 경제 불확실성이 극도로 높아지고 있습니다. 이는 글로벌 경기 둔화 압력을 가중시키고 공급망 불안정을 심화시키는 요인입니다.\n국내적으로는 원달러 환율이 1300원대에 진입하며 통화 약세 압력이 커지고 있으며, 고금리 장기화로 금융주 내에서도 희비가 엇갈리는 등 금융 시장의 불안정성이 감지됩니다. 특히 국내 증시에서 '빚투'가 늘어나 증권사 이자수익이 증가하는 현상은 고금리 환경에서 개인 투자자들의 레버리지 리스크가 커지고 있음을 시사하며, 이는 시장 조정 시 큰 폭의 하락을 유발할 수 있는 잠재적 위험 요인으로 작용할 수 있습니다. 외국인 수급 또한 특정 섹터(2차전지·전력기기)에 집중되는 경향을 보여 전반적인 시장의 강한 매수세로 보기는 어렵습니다. 이처럼 글로벌 복합 위기와 국내 시장의 내재된 취약성이 맞물려 시스템 리스크로 전이될 가능성이 높은 심각한 상황으로 판단됩니다.\n\n2. 🌐 <b>레짐 유형(Flow)</b>: <b>CRISIS</b>\n\n<b>근거</b>:\n제시된 정보들은 단순한 시장 변동성을 넘어선 시스템 리스크의 징후를 명확히 보여줍니다. 글로벌 고금리 장기화 및 추가 인상 가능성은 전 세계적인 유동성 위축과 경기 침체 우려를 심화시키고 있으며, 미중 기술 패권 경쟁 및 중동 리스크는 글로벌 공급망과 지정학적 안정성을 근본적으로 위협하고 있습니다. 국내적으로는 원달러 환율 1300원대 진입이 외환 시장의 불안정성을 높이고, '빚투' 증가로 인한 국내 증시의 잠재적 취약성은 고금리 환경에서 금융 시스템 전반의 안정성을 위협할 수 있습니다. 이 모든 요소들이 복합적으로 작용하여 경제 시스템 전반에 걸쳐 광범위한 충격과 전면적인 방어가 필요한 상황으로 판단됩니다.\n\n3. 🛡️ <b>전략 지침</b>: <b>Defense</b>: 현금 비중 극대화 및 부채 축소. 변동성 높은 위험 자산 회피 및 필수 소비재, 유틸리티 등 방어적 섹터에 집중. 환율 변동성 대비 헤지 고려.\n\n4. 👁️ <b>오늘의 통찰</b>:\n<b>포착된 기미</b>:\n1.  <b>고금리 장기화를 넘어선 추가 인상 압력</b>: 글로벌 고금리 장기화 우려와 함께 점도표상 최고 연 3.5% 전망이 제기되며, 이는 단순한 현상 유지가 아닌 금리 환경의 추가 악화를 예고합니다. 이는 기업 투자 위축 및 가계 부채 부담 심화로 이어질 것입니다.\n2.  <b>'빚투' 기반 국내 증시의 잠재적 취약성</b>: 증권사 이자수익 증가는 개인 투자자들의 레버리지 확대를 의미하며, 고금리 환경에서 시장 조정 시 큰 폭의 하락을 유발할 수 있는 뇌관으로 작용할 수 있습니다.\n3.  <b>지정학적 리스크의 구조적 고착화</b>: 미중 기술 패권, 미국 보호무역주의, 중동 리스크는 일시적 요인이 아닌 구조적 문제로, 글로벌 경제의 불확실성을 상시화하고 공급망 및 원자재 시장에 지속적인 압박을 가할 것입니다.\n\n<b>단기 시나리오</b>: 글로벌 고금리 및 지정학적 리스크 심화로 투자 심리 위축이 지속될 전망입니다. 원달러 환율은 추가 상승 압력을 받을 수 있으며, 국내 증시는 '빚투' 청산 위험과 외국인 수급의 제한적 영향으로 변동성이 확대될 것으로 예상됩니다. 방어적 자산 선호 심리가 강화되며, 특정 섹터(보험 등)를 제외한 전반적인 금융 시장의 경색이 심화될 가능성이 높습니다.",
+      "news": "🔗 <a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE93TWh5aGFyTEEyMDM4T21iUEgtcG5jTVZnRzVmaWljLW44T3BPMTFxSS1WUDZjNFNVdEFZbkxVSG5KRVQtU2Fzdnd2eFFYcTVmaS1oLVhnd1lCQQ?oc=5\">$1 예금 카지노 무료 스핀 에 대한 궁금증을 해소하는 완벽한 가이드</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9JVTdGS2xkd0dSZEdKekxUSkM0cm9fRG5leEtpb0dGcGhHNVVNYjdCZHJ2WFRBcGNQQTRiRXRuYUVTR001OWxiQzA1aGhMeTlyYUdrZU5WajhDbFQ3aHNNVGpzTTU3Q3BnRWJQaw?oc=5\">[피지컬 AI ㊶] HMGMA ⑤</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1zSGVYUWRCV003RllzVFVlWjdva2hkRGM0ZmFHcHFuNm5VaWtjZjJvRUlYOHRTUzN0ODlZa2F0eFJWclhoZHVxQjhwdG1rT3c4T0N0OEs4eExsQzVNS20wYlFuX216aDRzb0hoWkdMSVrSAXRBVV95cUxPLXA2Y3A5RmMzVHNGZnBiLTVYQk1FSGhwNm1mNTVqQjh4cE5YamdUMHhfbF9BdTVCQ3BGUWtkZUQ5WXBEVjdwX0REenR3Y0V4WEltRTVTSEhaUmJVVXZiMmNHQ2pBbm9CSnVyYTZvT1JuN2JESw?oc=5\">고금리 장기화에 금융주 희비…보험 웃고 증권 울상</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zbFRfSWFycm1fYk1Fa1hGOHFQQlI2VWRuTFhPWFdSMDA1NGpwWG9oX2UxVTlTR3N2MUtoci03UHFDaDJvcWV2aFk4c2Examo1b0pxQm92dnlqT2tXMWJURTJQVQ?oc=5\">포커 방법 컨설턴트를 위한 친환경 에너지 권위 있는 가이드</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xY3U0ODBwZ0tDUEFvUnNKdHB5dTlCTzRfRGMtUFdwLTRpc3o5WExrNXpMODFjams2WlVxYlRVeHZsc0laSXRpa0E1OVJiSTBNNk5FTl9QdjBEMW12blBPOXpZa0RqQlE?oc=5\">기준금리 3% 끝 아니다?…점도표엔 최고 연 3.5% 전망들도</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPejNvNEJsWVV5VFN3NC0wX2dmaDVDMklUckp2UVlmSUpvS2wtdndVcjZFX2haSVdwOU9PVGdCX2JSVzV4QmFra05GZFBuLUxDcy1RYnUxZ215dDlheGZSRXNKLUFqSWxEcm84ZUdtTFBFQjlVaHRMaUZwcER4WGpHVQ?oc=5\">환율 1300원대 진입, 부자들은 지금 이 자산을 담고 있다</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3NvLTBid2tvSVhWcVhmZHpDVGNDbUFwZW5YSlhLSzlwc2ZSZHZmN1A1QmQ2R0dNY2ZSVWJVX3pnYU5JUjZxSDNtbXJicEhVTE1iSjFzaWxEaFVsVHNINGZKc3dYSDItMldJOW1NYktGb1lBOFZ1VVU1YW92a1ZHdXZmcWRkQ3V3Y0E?oc=5\">[수급분석] 외국인·연기금이 픽 한 쌍끌이 종목! 2차전지·전력기기 (2026.08.27)</a>\n\n🔗 <a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NcXA1ZjhmRTh4R2N1bkszU0t4blo0Q1prNnZqNjFCSU1iN1pqTFV1R2V1SWp4OTROTnBXeVNvMzBiLTJnSEUtblFhYVNUZ3BZamdxVzlmQUlTbHNlRUJ6YTFiQkpPQ2lf?oc=5\">빚투 늘자 이자수익도 ‘껑충’…키움·NH·삼성증권 나란히 1700억대</a>\n\n",
+      "savedAt": "2026-08-28 07:37"
+    },
+    {
       "date": "2026-08-27",
       "session": "🌅 AM",
       "severity": "7.5",
@@ -2106,7 +2125,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-08-27 07:37:43",
+    "updatedAt": "2026-08-28 07:37:18",
     "source": "Apps Script",
     "version": 1
   }
